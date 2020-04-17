@@ -1,0 +1,15 @@
+!WaveEngine.Assets.Exporters.SceneMetaFile,WaveEngine.Assets
+Id: 15e4c6bd-1201-4f10-b2e8-61d96f82664d
+DefaultProfile:
+  ExcludeAsset: false
+  Name: null
+  Platform: Undefined
+ExportAsRaw: false
+Profiles: {}
+Source:
+  Header:
+    Id: 670c2152-6647-4f75-8ba0-305783168221
+    IsCompressed: true
+  LastModified: 0001-01-01T00:00:00.0000000
+  SceneData:
+    Id: f48c9a66-4e51-4525-acbb-1df908652e12

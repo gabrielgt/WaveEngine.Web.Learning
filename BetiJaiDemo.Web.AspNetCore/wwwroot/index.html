@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>Beti Jai Demo</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+        <link rel="stylesheet" href="lib/jqueryui/themes/base/jquery-ui.min.css">
+        <link rel="stylesheet" href="styles.css">
+        <script type="text/javascript" src="lib/jquery/jquery.min.js"></script>
+        <script type="text/javascript" src="lib/jqueryui/jquery-ui.min.js"></script>
+        <script type="text/javascript" src="waveengine/runtime.js"></script>
+        <script type="text/javascript" src="waveengine.js"></script>
+        <script type="text/javascript" src="waveengine/content.js"></script>
+        <script defer type="text/javascript" src="waveengine/dotnet.js"></script>
+    </head>
+    <body>
+        <div id="dialog-message" style="display: none;">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce suscipit, quam non faucibus tincidunt, 
+            nulla lorem pulvinar odio, vel molestie ante urna non purus. Donec in maximus metus, ut convallis urna. 
+            Donec tincidunt bibendum purus, et tempus tellus facilisis nec. Donec in magna eget nisi efficitur 
+            blandit. Pellentesque auctor sem sed tortor gravida pellentesque. Cras tortor tortor, ornare non nunc sit 
+            amet, tincidunt vulputate ex. Mauris vitae fringilla sapien. Curabitur volutpat elit sed tortor 
+            vestibulum, in lacinia est faucibus. Nulla vehicula congue leo sit amet fermentum.
+        </div>
+
+        <div id="body-content">
+            <div id="zones">
+                Selecciona el área que deseas visitar:
+                <ul>
+                    <li><a data-zone="1" href="">La Fachada Principal</a></li>
+                    <li><a data-zone="2" href="">La Fachada Posterior</a></li>
+                    <li><a data-zone="3" href="">El callejón</a></li>
+                    <li><a data-zone="4" href="">La Cancha</a></li>
+                    <li><a data-zone="5" href="">La Cubierta</a></li>
+                    <li><a data-zone="6" href="">Las Gradas</a></li>
+                    <li><a data-zone="7" href="">La Trasera</a></li>
+                </ul>
+            </div>
+
+            <canvas id="wave-engine-canvas" oncontextmenu="return false;" tabindex="1"></canvas>
+        </div>
+
+        <div id="splash">
+            <div id="splash-content">
+                <img src="wave-engine-splash-logo.png" />
+                <div id="loading-bar" class="progress">
+                    <div class="progress-bar"></div>
+                </div>
+            </div>
+        </div>
+
+        <script type="text/javascript">
+            App.configure('wave-engine-canvas', 'BetiJaiDemo.Web', 'BetiJaiDemo.Web.Program');
+        </script>
+    </body>
+</html>

@@ -1,0 +1,2896 @@
+{
+  "hotspots": [
+    {
+      "name": "La fachada original",
+      "id": 1,
+      "zoneId": 1,
+      "location": "-6.82,1.1,-36.77",
+      "sections": [
+        {
+          "name": "Antes/Después",
+          "imageText": "Sub image text",
+          "media": [
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2009,
+              "resource": "https://www.betijaimadrid.es/image/HS1%20Fachada%20principal/Antes%20y%20despues/Fachada_A01a2.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS1%20Fachada%20principal/Antes%20y%20despues/Fachada_A01d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2009,
+              "resource": "https://www.betijaimadrid.es/image/HS1%20Fachada%20principal/Antes%20y%20despues/Fachada_A02a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS1%20Fachada%20principal/Antes%20y%20despues/Fachada_A02d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2009,
+              "resource": "https://www.betijaimadrid.es/image/HS1%20Fachada%20principal/Antes%20y%20despues/Fachada_A03a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS1%20Fachada%20principal/Antes%20y%20despues/Fachada_A03d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2010,
+              "resource": "https://www.betijaimadrid.es/image/HS1%20Fachada%20principal/Antes%20y%20despues/Fachada_A04a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS1%20Fachada%20principal/Antes%20y%20despues/Fachada_A04d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2009,
+              "resource": "https://www.betijaimadrid.es/image/HS1%20Fachada%20principal/Antes%20y%20despues/Fachada_A05a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS1%20Fachada%20principal/Antes%20y%20despues/Fachada_A05d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2009,
+              "resource": "https://www.betijaimadrid.es/image/HS1%20Fachada%20principal/Antes%20y%20despues/Fachada_A06a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS1%20Fachada%20principal/Antes%20y%20despues/Fachada_A06d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS1%20Fachada%20principal/Antes%20y%20despues/Fachada_A07a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS1%20Fachada%20principal/Antes%20y%20despues/Fachada_A07d.jpg"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Curiosidades",
+          "media": [
+		    {
+              "title": "Cronograma",
+              "text": "",
+              "mediaType": "image",
+              "year": 2019,
+              "resource": "https://www.betijaimadrid.es/image/HS1%20Fachada%20principal/infografia.png"
+            },
+            {
+              "title": "Obra de Joaquin Rucoba y Octavio de Toledo es una copia del Beti Jai de San Sebastián.",
+              "text": "",
+              "mediaType": "image",
+              "year": 1892,
+              "resource": "https://www.betijaimadrid.es/image/HS1%20Fachada%20principal/Curiosidades/Fachada_C01.jpg"
+            },
+            {
+              "title": "En abril del 2019 se cumple el centenario de la muerte de Joaquin Rucoba autor de edificios como la plaza de toros de La Malagueta, el mercado de Atarazanas o el teatro Arriaga.",
+              "text": "",
+              "mediaType": "image",
+              "year": 1894,
+              "resource": "https://www.betijaimadrid.es/image/HS1%20Fachada%20principal/Curiosidades/Fachada_C02.jpg"
+            },
+            {
+              "title": "Se inaugura el 29 de mayo de 1894. Fuente: diario El Día, 1894",
+              "text": "",
+              "mediaType": "image",
+              "downloadLink": "https://www.betijaimadrid.es/image/HS1%20Fachada%20principal/Curiosidades/Fachada_C03-Pdf.pdf",
+              "year": 1894,
+              "resource": "https://www.betijaimadrid.es/image/HS1%20Fachada%20principal/Curiosidades/Fachada_C03.png"
+            },
+            {
+              "title": "El Beti Jai estaba proyectado para que tuviera una planta más.",
+              "text": "",
+              "mediaType": "image",
+              "year": 1893,
+              "resource": "https://www.betijaimadrid.es/image/HS1%20Fachada%20principal/Curiosidades/Fachada_C04.jpg"
+            },
+            {
+              "title": "Durante la ejecución, así se recoge en los periódicos de la época, hubo que desmontar esta última planta ya que la fachada estaba perdiendo su verticalidad. Fuentes: El Heraldo de Madrid y El País, 1894",
+              "text": "",
+              "mediaType": "image",
+              "downloadLink": "https://www.betijaimadrid.es/image/HS1%20Fachada%20principal/Curiosidades/Fachada_C05-PDF.pdf",
+              "year": 1894,
+              "resource": "https://www.betijaimadrid.es/image/HS1%20Fachada%20principal/Curiosidades/Fachada_C05.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "downloadLink": "https://www.betijaimadrid.es/image/HS1%20Fachada%20principal/Curiosidades/Fachada_C06-PDF.pdf",
+                "year": 1894,
+                "resource": "https://www.betijaimadrid.es/image/HS1%20Fachada%20principal/Curiosidades/Fachada_C06.jpg"
+              }
+            },
+            {
+              "title": "Se llega a solicitar a las autoridades su no apertura por la amenaza de ruina. Fuente: El imparcial, 1894.",
+              "text": "",
+              "mediaType": "image",
+              "downloadLink": "https://www.betijaimadrid.es/image/HS1%20Fachada%20principal/Curiosidades/Fachada_C07-PDF.pdf",
+              "year": 1894,
+              "resource": "https://www.betijaimadrid.es/image/HS1%20Fachada%20principal/Curiosidades/Fachada_C07.jpg"
+            },
+            {
+              "title": "Debido a los “rumores” de peligro de su estabilidad, se recoge en el documento final de obra la realización de pruebas de carga, con personas subiendo y bajando sacos.",
+              "text": "",
+              "mediaType": "image",
+              "downloadLink": "https://www.betijaimadrid.es/image/HS1%20Fachada%20principal/Curiosidades/Fachada_C08-PDF.pdf",
+              "year": 1894,
+              "resource": "https://www.betijaimadrid.es/image/HS1%20Fachada%20principal/Curiosidades/Fachada_C08.jpg"
+            },
+            {
+              "title": "En su origen el Beti Jai no tenía ninguna otra edificación a su alrededor lo que permitía acceder sin aglomeraciones. Fuente: La vida galante, 1901.",
+              "text": "",
+              "mediaType": "image",
+              "year": 1901,
+              "resource": "https://www.betijaimadrid.es/image/HS1%20Fachada%20principal/Curiosidades/Fachada_C09.jpg"
+            },
+            {
+              "title": "El acceso al vestíbulo se hacía a través de cuatro grandes puertas encontrándose situado el despacho de billetes en el mismo. Fuente: Actualidades 1894.",
+              "text": "",
+              "mediaType": "image",
+              "year": 1894,
+              "resource": "https://www.betijaimadrid.es/image/HS1%20Fachada%20principal/Curiosidades/Fachada_C10.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Testimonios",
+          "media": [
+            {
+              "title": "",
+              "text": "<iframe style='width:100%;border:none;height:100%;'allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen;'src='https://www.youtube.com/embed/RUGSbZTkvc4'></iframe>",
+              "year": 2019,
+              "mediaType": "html",
+              "resource": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "zoneId": 1,
+      "id": 2,
+      "name": "Los detalles de la fachada",
+      "location": "-12.28,8.39,-35.99",
+      "sections": [
+        {
+          "name": "Antes/Después",
+          "imageText": "Sub image text",
+          "media": [
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Antes%20y%20despues/FP-detalle_A01a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Antes%20y%20despues/FP-detalle_A01d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Antes%20y%20despues/FP-detalle_A02a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Antes%20y%20despues/FP-detalle_A02d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Antes%20y%20despues/FP-detalle_A03-1a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Antes%20y%20despues/FP-detalle_A03-1d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Antes%20y%20despues/FP-detalle_A03-2a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Antes%20y%20despues/FP-detalle_A03-2d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2010,
+              "resource": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Antes%20y%20despues/FP-detalle_A04a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Antes%20y%20despues/FP-detalle_A04d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Antes%20y%20despues/FP-detalle_A05a2.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Antes%20y%20despues/FP-detalle_A05d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Antes%20y%20despues/FP-detalle_A06a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Antes%20y%20despues/FP-detalle_A06d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Antes%20y%20despues/FP-detalle_A07a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Antes%20y%20despues/FP-detalle_A07d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Antes%20y%20despues/FP-detalle_A08a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Antes%20y%20despues/FP-detalle_A08d.jpg"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Curiosidades",
+          "imageText": "Sub image text",
+          "media": [
+            {
+              "title": "Los cinco escudos de la parte inferior están formados por las iniciales de los empresarios que construyeron el frontón: Arana, Unibaso y Cia.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2018,
+              "resource": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Curiosidades/FP-detalle_C01.jpg"
+            },
+            {
+              "title": "Arana era un empresario de la época bastante polémico y era objetivo de la prensa por su peculiar estilo. Fuente: La Lidia, 1894.",
+              "text": "",
+              "mediaType": "image",
+              "downloadLink": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Curiosidades/FP-detalle_C02-PDF.pdf",
+              "year": 1894,
+              "resource": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Curiosidades/FP-detalle_C02.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "downloadLink": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Curiosidades/FP-detalle_C03-PDF.pdf",
+                "year": 1894,
+                "resource": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Curiosidades/FP-detalle_C03.jpg"
+              }
+            },
+            {
+              "title": "En lugar de la última planta proyectada por Rucoba, se construyó una balaustrada rematando la fachada principal con el nombre del frontón en el centro de esta, “Beti Jai”, que significa “siempre fiesta” en euskera.",
+              "text": "",
+              "mediaType": "image",
+              "year": 1894,
+              "resource": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Curiosidades/FP-detalle_C04.jpg"
+            },
+            {
+              "title": "La balaustrada original desapareció en alguna actuación que se llevó a cabo y ha sido necesaria su total reconstrucción.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2009,
+              "resource": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Curiosidades/FP-detalle_C05.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Curiosidades/FP-detalle_C06.jpg"
+              }
+            },
+            {
+              "title": "El motivo central de los capiteles de las pilastras es una cesta, elemento con el que se juega a la cesta punta.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2018,
+              "resource": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Curiosidades/FP-detalle_C07.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Curiosidades/FP-detalle_C08.jpg"
+              }
+            },
+            {
+              "title": "Para la reconstrucción de la fachada se ha contado con un plano acuarelado original de Rucoba que, aunque no mostraba el aspecto final del edificio, ha facilitado mucha información sobre él.",
+              "text": "",
+              "mediaType": "image",
+              "year": 1894,
+              "resource": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Curiosidades/FP-detalle_C09.png"
+            }
+          ]
+        },
+        {
+          "name": "Técnico",
+          "imageText": "Sub image text",
+          "media": [
+            {
+              "title": "El estado de la fachada principal era de un avanzado estado de degradación.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Tecnico/FP-detalle_T01.jpg"
+            },
+            {
+              "title": "Diversos elementos ornamentales habían sido desmontados y destruidos.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2010,
+              "resource": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Tecnico/FP-detalle_T02.jpg"
+            },
+            {
+              "title": "Previo al inicio de los trabajos se midió y documentó escrupulosamente todos sus elementos.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Tecnico/FP-detalle_T03.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2015,
+                "resource": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Tecnico/FP-detalle_T04.jpg"
+              }
+            },
+            {
+              "title": "Fue necesario proceder al picado del revestimiento moderno de cemento que estaba provocando el desprendimiento en la fachada del ladrillo original.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Tecnico/FP-detalle_T05.jpg"
+            },
+            {
+              "title": "Se desmontaron todos los elementos ornamentales de fachada que era necesario recuperar, en unos casos para reconstruir y recolocarlos, en otros para poder sacar moldes y recuperarlos.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2016,
+              "resource": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Tecnico/FP-detalle_T06.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2016,
+                "resource": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Tecnico/FP-detalle_T07.jpg"
+              }
+            },
+            {
+              "title": "Fue necesario rehacer el soporte en las zonas en las que había perdido material.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Tecnico/FP-detalle_T08.jpg"
+            },
+            {
+              "title": "La balaustrada de la parte superior se reconstruyó por completo ya que había sido demolida en su totalidad.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Tecnico/FP-detalle_T09.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2017,
+                "resource": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Tecnico/FP-detalle_T10.jpg"
+              }
+            },
+            {
+              "title": "Se procedió de igual manera a la reconstrucción de la zona inferior de fachada, a los almohadillados de piedra artificial y a la recuperación y protección del zócalo de granito.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Tecnico/FP-detalle_T11.jpg"
+            },
+            {
+              "title": "Se recolocaron todos los elementos ornamentales en la misma posición que se encontraban en su origen, protegiéndolos ante la acción del agua.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Tecnico/FP-detalle_T12.jpg"
+            },
+            {
+              "title": "Se reforzó el soporte con una subbase armada para la aplicación del revoco final.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Tecnico/FP-detalle_T13.jpg"
+            },
+            {
+              "title": "Para la reconstrucción de las letras de la parte central de la balaustrada se utilizaron las originales que se encontraban en la fachada interior.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Tecnico/FP-detalle_T14.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2017,
+                "resource": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Tecnico/FP-detalle_T15.jpg"
+              }
+            },
+            {
+              "title": "En mayo de 2017 se dieron por finalizados los trabajos en esta fachada principal, volviendo a ser visible a los ojos de los viandantes. Durante años se ignoraró el secreto que esta fachada, cubierta siempre por mallas o andamios, guardaba en su interior.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS2%20Fachada%20ppal%20detalles/Tecnico/FP-detalle_T16.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Testimonios",
+          "media": [
+            {
+              "title": "",
+              "text": "<iframe style='width:100%;border:none;height:100%;'allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen;'src='https://www.youtube.com/embed/X-xxYsbJCWs'></iframe>",
+              "year": 2019,
+              "mediaType": "html",
+              "resource": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "zoneId": 3,
+      "id": 2,
+      "name": "El callejón",
+      "location": "-17,6.5,7",
+      "sections": [
+        {
+          "name": "Antes/Después",
+          "imageText": "Sub image text",
+          "media": [
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2016,
+              "resource": "https://www.betijaimadrid.es/image/HS3%20Callejon/Antes%20y%20despues/Callejon_A01a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS3%20Callejon/Antes%20y%20despues/Callejon_A01d.jpg"
+              }
+            },
+            {
+              "title": "Fuente: archivo histórico del COAM.",
+              "text": "",
+              "mediaType": "image",
+              "year": 1977,
+              "resource": "https://www.betijaimadrid.es/image/HS3%20Callejon/Antes%20y%20despues/Callejon_A02a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS3%20Callejon/Antes%20y%20despues/Callejon_A02d.jpg"
+              }
+            },
+            {
+              "title": "Fuente: archivo histórico del COAM.",
+              "text": "",
+              "mediaType": "image",
+              "year": 1977,
+              "resource": "https://www.betijaimadrid.es/image/HS3%20Callejon/Antes%20y%20despues/Callejon_A03a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS3%20Callejon/Antes%20y%20despues/Callejon_A03d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS3%20Callejon/Antes%20y%20despues/Callejon_A04a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS3%20Callejon/Antes%20y%20despues/Callejon_A04d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS3%20Callejon/Antes%20y%20despues/Callejon_A05a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS3%20Callejon/Antes%20y%20despues/Callejon_A05d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS3%20Callejon/Antes%20y%20despues/Callejon_A06a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS3%20Callejon/Antes%20y%20despues/Callejon_A06d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS3%20Callejon/Antes%20y%20despues/Callejon_A07a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS3%20Callejon/Antes%20y%20despues/Callejon_A07d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS3%20Callejon/Antes%20y%20despues/Callejon_A08a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS3%20Callejon/Antes%20y%20despues/Callejon_A08d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS3%20Callejon/Antes%20y%20despues/Callejon_A09a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS3%20Callejon/Antes%20y%20despues/Callejon_A09d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS3%20Callejon/Antes%20y%20despues/Callejon_A10a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS3%20Callejon/Antes%20y%20despues/Callejon_A10d.jpg"
+              }
+            },
+            {
+              "title": "Fuente: archivo histórico del COAM.",
+              "text": "",
+              "mediaType": "image",
+              "year": 1977,
+              "resource": "https://www.betijaimadrid.es/image/HS3%20Callejon/Antes%20y%20despues/Callejon_A11a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS3%20Callejon/Antes%20y%20despues/Callejon_A11d.jpg"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Curiosidades",
+          "media": [
+            {
+              "title": "Cuando el Beti-Jai se construyó, el callejón no era tal ya que no existía ninguna construcción colindante como se puede apreciar en el plano de Facundo Cañadas de 1900.",
+              "text": "",
+              "mediaType": "image",
+              "year": 1900,
+              "resource": "https://www.betijaimadrid.es/image/HS3%20Callejon/Curiosidades/Callejon_C01.jpg"
+            },
+            {
+              "title": "La entrada desde Marqués de Riscal era el paso al café que se encontraba en la parte posterior del frontón",
+              "text": "",
+              "mediaType": "image",
+              "year": 1894,
+              "resource": "https://www.betijaimadrid.es/image/HS3%20Callejon/Curiosidades/Callejon_C02.jpg"
+            },
+            {
+              "title": "En el año 1924-1925 se solicita la licencia para la instalación de un taller de coches  en el frontón ya en desuso.",
+              "text": "",
+              "mediaType": "image",
+              "year": 1924,
+              "resource": "https://www.betijaimadrid.es/image/HS3%20Callejon/Curiosidades/Callejon_C03.jpg"
+            },
+            {
+              "title": "El ahora ya callejón serviría durante muchos años como acceso de vehículos al taller. Fuente: archivo histórico del COAM.",
+              "text": "",
+              "mediaType": "image",
+              "year": 1977,
+              "resource": "https://www.betijaimadrid.es/image/HS3%20Callejon/Curiosidades/Callejon_C04.jpg"
+            },
+            {
+              "title": "Rucoba proyectó una fachada totalmente distinta a la fachada de Marqués de Riscal que parece recordar a una plaza de toros. Rucoba fue el arquitecto de la plaza de toros de Málaga, La Malagueta.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2018,
+              "resource": "https://www.betijaimadrid.es/image/HS3%20Callejon/Curiosidades/Callejon_C05.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Técnico",
+          "imageText": "Sub image text",
+          "media": [
+            {
+              "title": "La zona inferior de la fachada había sufrido la pérdida casi total de la hoja exterior de ladrillo.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS3%20Callejon/Tecnico/Callejon_T01.jpg"
+            },
+            {
+              "title": "Para comenzar los trabajos de restauración se procedió a la limpieza cuidadosa de la zona para retirar todos los elementos en peligro de desprendimiento.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS3%20Callejon/Tecnico/Callejon_T02.jpg"
+            },
+            {
+              "title": "Se retacaron todas las zonas con ladrillos de las mismas medidas y aspecto que los originales.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS3%20Callejon/Tecnico/Callejon_T03.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2017,
+                "resource": "https://www.betijaimadrid.es/image/HS3%20Callejon/Tecnico/Callejon_T04.jpg"
+              }
+            },
+            {
+              "title": "Especialmente delicado fue el trabajo de reconstrucción en la parte superior de la fachada ya que la entrada de agua había dañado la coronación.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS3%20Callejon/Tecnico/Callejon_T05.jpg"
+            },
+            {
+              "title": "Toda la fachada fue tratada con antiherbicida y biocida para evitar la proliferación de nuevo de raíces, plantas y hongos.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS3%20Callejon/Tecnico/Callejon_T06.jpg"
+            },
+            {
+              "title": "Posteriormente se aplicó el mortero de rejuntado a toda la fachada para, ladrillo a ladrillo, ir eliminándolo y obtener el aspecto original que tenía el rejuntado de la fábrica.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS3%20Callejon/Tecnico/Callejon_T07.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2017,
+                "resource": "https://www.betijaimadrid.es/image/HS3%20Callejon/Tecnico/Callejon_T08.jpg"
+              }
+            },
+            {
+              "title": "En el encuentro de la fachada del callejón con la fachada principal se mantuvieron las técnicas ya descritas para la misma.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS3%20Callejon/Tecnico/Callejon_T09.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2017,
+                "resource": "https://www.betijaimadrid.es/image/HS3%20Callejon/Tecnico/Callejon_T10.jpg"
+              }
+            },
+            {
+              "title": "Esta parte de la fachada principal fue determinante para la reconstrucción de algunos elementos que aquí sí se habían salvado, un ejemplo es la basa de las pilastras.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS3%20Callejon/Tecnico/Callejon_T11.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Testimonios",
+          "media": [
+            {
+              "title": "",
+              "text": "<iframe style='width:100%;border:none;height:100%;'allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen;'src='https://www.youtube.com/embed/xm52-0esoAo'></iframe>",
+              "year": 2019,
+              "mediaType": "html",
+              "resource": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "zoneId": 7,
+      "id": 4,
+      "name": "La fachada trasera",
+      "location": "16.12,5.88,43.69",
+      "sections": [
+        {
+          "name": "Antes/Despues",
+          "imageText": "Sub image text",
+          "media": [
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2016,
+              "resource": "https://www.betijaimadrid.es/image/HS4%20Trasera/Antes%20y%20despues/Trasera_A01a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS4%20Trasera/Antes%20y%20despues/Trasera_A01d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2016,
+              "resource": "https://www.betijaimadrid.es/image/HS4%20Trasera/Antes%20y%20despues/Trasera_A02a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS4%20Trasera/Antes%20y%20despues/Trasera_A02d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2010,
+              "resource": "https://www.betijaimadrid.es/image/HS4%20Trasera/Antes%20y%20despues/Trasera_A03a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS4%20Trasera/Antes%20y%20despues/Trasera_A03d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2016,
+              "resource": "https://www.betijaimadrid.es/image/HS4%20Trasera/Antes%20y%20despues/Trasera_A04a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS4%20Trasera/Antes%20y%20despues/Trasera_A04d.jpg"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Técnico",
+          "media": [
+            {
+              "title": "Las zonas inferiores de esta fachada son las que en peor estado se encontraban ya que es una de las zonas más sombrías y húmedas del edificio.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS4%20Trasera/Tecnico/Trasera_T01.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2017,
+                "resource": "https://www.betijaimadrid.es/image/HS4%20Trasera/Tecnico/Trasera_T02.jpg"
+              }
+            },
+            {
+              "title": "El proceso de restauración se inició con la retirada de vegetación cuyas raíces estaban deteriorando los muros.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS4%20Trasera/Tecnico/Trasera_T03.jpg"
+            },
+            {
+              "title": "Se realizó una limpieza exhaustiva de la fachada retirando todos los materiales sueltos y, posteriormente, limpiando ladrillo a ladrillo.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS4%20Trasera/Tecnico/Trasera_T04.jpg"
+            },
+            {
+              "title": "Se eliminó parte del llagueado antiguo y se repusieron los huecos con ladrillos de similares características a los originales.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS4%20Trasera/Tecnico/Trasera_T06.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2017,
+                "resource": "https://www.betijaimadrid.es/image/HS4%20Trasera/Tecnico/Trasera_T05.jpg"
+              }
+            },
+            {
+              "title": "Se trató toda la fachada rehaciendo el rejuntado para, posteriormente, limpiar ladrillo a ladrillo. ",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS4%20Trasera/Tecnico/Trasera_T07.jpg"
+            },
+            {
+              "title": "Además del ladrillo, se han recuperado los elementos ornamentales originales tales como las sujeciones de las bajantes, soporte del cartel del restaurante o incluso los ganchos de donde colgaban los candiles.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2018,
+              "resource": "https://www.betijaimadrid.es/image/HS4%20Trasera/Tecnico/Trasera_T08.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS4%20Trasera/Tecnico/Trasera_T09.jpg"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Testimonios",
+          "media": [
+            {
+              "title": "",
+              "text": "<iframe style='width:100%;border:none;height:100%;'allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen;'src='https://www.youtube.com/embed/IBtbjsCcN_0'></iframe>",
+              "year": 2019,
+              "mediaType": "html",
+              "resource": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "zoneId": 4,
+      "id": 5,
+      "name": "La cancha",
+      "location": "16.63,1.1,13.55",
+      "sections": [
+        {
+          "name": "Antes/Despues",
+          "imageText": "Sub image text",
+          "media": [
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS5%20Cancha/Antes%20y%20despues/Cancha_A01a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS5%20Cancha/Antes%20y%20despues/Cancha_A01d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2010,
+              "resource": "https://www.betijaimadrid.es/image/HS5%20Cancha/Antes%20y%20despues/Cancha_A02a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS5%20Cancha/Antes%20y%20despues/Cancha_A02d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS5%20Cancha/Antes%20y%20despues/Cancha_A03a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS5%20Cancha/Antes%20y%20despues/Cancha_A03d.jpg"
+              }
+            },
+            {
+              "title": "Fuente: archivo histórico del COAM",
+              "text": "",
+              "mediaType": "image",
+              "year": 1977,
+              "resource": "https://www.betijaimadrid.es/image/HS5%20Cancha/Antes%20y%20despues/Cancha_A04a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS5%20Cancha/Antes%20y%20despues/Cancha_A04d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS5%20Cancha/Antes%20y%20despues/Cancha_A05a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS5%20Cancha/Antes%20y%20despues/Cancha_A05d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS5%20Cancha/Antes%20y%20despues/Cancha_A06a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS5%20Cancha/Antes%20y%20despues/Cancha_A06d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS5%20Cancha/Antes%20y%20despues/Cancha_A07a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS5%20Cancha/Antes%20y%20despues/Cancha_A07d.jpg"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Curiosidades",
+          "media": [
+            {
+              "title": "Es una copia del Frontón Beti Jai de San Sebastián, promovido por José Arana y diseñado en 1892 por el arquitecto José Goicoa. Estuvo situado en la manzana ocupada actualmente por los cines Príncipe (antiguo teatro del Príncipe). Fue reconvertido en Teatro‐Circo, sufriendo un gran incendio que destruyó totalmente su interior. Era un frontón abierto que constó de sillas de cancha y tres plantas superiores. Fuente imágenes: La Ilustración española y americana, 1893.",
+              "text": "",
+              "mediaType": "image",
+              "year": 1893,
+              "resource": "https://www.betijaimadrid.es/image/HS5%20Cancha/Curiosidades/Cancha_C01.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 1893,
+                "resource": "https://www.betijaimadrid.es/image/HS5%20Cancha/Curiosidades/Cancha_C02.jpg"
+              }
+            },
+            {
+              "title": "La modalidad de juego que se practicaba en el Beti Jai era el Joko Garbi y la herramienta que se emplea es la xistera (cesta).",
+              "text": "",
+              "mediaType": "image",
+              "year": 1894,
+              "resource": "https://www.betijaimadrid.es/image/HS5%20Cancha/Curiosidades/Cancha_C03.jpg"
+            },
+            {
+              "title": "El suelo de la cancha era de piedra artificial, detalle que utilizaban algunos medios para “criticar” el nuevo frontón de Arana. Fuente: El Heraldo de Madrid, 1894.",
+              "text": "",
+              "mediaType": "image",
+              "year": 1894,
+              "resource": "https://www.betijaimadrid.es/image/HS5%20Cancha/Curiosidades/Cancha_C04.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "downloadLink": "https://www.betijaimadrid.es/image/HS5%20Cancha/Curiosidades/Cancha_C05-PDF.pdf",
+                "year": 1894,
+                "resource": "https://www.betijaimadrid.es/image/HS5%20Cancha/Curiosidades/Cancha_C05.jpg"
+              }
+            },
+            {
+              "title": "En la cancha se disponían las llamadas “localidades de cancha” y “localidades de plaza” (desaparecidas en la actualidad). Fuente: El Pelotari.",
+              "text": "",
+              "mediaType": "image",
+              "year": 1894,
+              "resource": "https://www.betijaimadrid.es/image/HS5%20Cancha/Curiosidades/Cancha_C06.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 1894,
+                "resource": "https://www.betijaimadrid.es/image/HS5%20Cancha/Curiosidades/Cancha_C07.jpg"
+              }
+            },
+            {
+              "title": "En la inauguración se dispusieron tres grandes partidos en tres días consecutivos, el primer día, 29 de mayo, el partido de inauguración se disputó entre Portal y Pasieguito contra Beloqui y Tandilero. Fuente: El Pelotari.",
+              "text": "",
+              "mediaType": "image",
+              "year": 1894,
+              "resource": "https://www.betijaimadrid.es/image/HS5%20Cancha/Curiosidades/Cancha_C08.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 1894,
+                "resource": "https://www.betijaimadrid.es/image/HS5%20Cancha/Curiosidades/Cancha_C09.jpg"
+              }
+            },
+            {
+              "title": "Las localidades más baratas eran las llamadas de andanada. Aquí se muestra una entrada original de un asalto de armas y dos juegos de pelota como señala la prensa de la época y el propietario transcribe en el anverso de la misma. Fuente: entrada original propiedad de Igor González.",
+              "text": "",
+              "mediaType": "image",
+              "year": 1897,
+              "resource": "https://www.betijaimadrid.es/image/HS5%20Cancha/Curiosidades/Cancha_C10.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 1897,
+                "resource": "https://www.betijaimadrid.es/image/HS5%20Cancha/Curiosidades/Cancha_C11.jpg"
+              }
+            },
+            {
+              "title": "Se instaló un marcador que producía el cambio de números mediante impulsos eléctricos con los colores rojo y azul (los mismos que los de los equipos). Fuente: Actualidades, 1894.",
+              "text": "",
+              "mediaType": "image",
+              "year": 1894,
+              "resource": "https://www.betijaimadrid.es/image/HS5%20Cancha/Curiosidades/Cancha_C12.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 1894,
+                "resource": "https://www.betijaimadrid.es/image/HS5%20Cancha/Curiosidades/Cancha_C13.jpg"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Técnico",
+          "imageText": "Sub image text",
+          "media": [
+            {
+              "title": "Fue necesario acometer la restauración de la pared izquierda del frontón, en la parte superior de esta se encontraba ubicado el marcador.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS5%20Cancha/Tecnico/Cancha_T01.jpg"
+            },
+            {
+              "title": "Al igual que en todos los elementos del edificio, en primer lugar se procedió a la toma de datos de cada uno de los elementos originales que conformaban el muro.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS5%20Cancha/Tecnico/Cancha_T02.jpg"
+            },
+            {
+              "title": "La ausencia de mantenimiento durante años había favorecido la proliferación de vegetación en el inmueble afectando de manera visible al muro.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS5%20Cancha/Tecnico/Cancha_T03.jpg"
+            },
+            {
+              "title": "Se procedió al picado de  todo el revestimiento en un avanzado estado de degradación hasta llegar a la base sana del muro.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS5%20Cancha/Tecnico/Cancha_T04.jpg"
+            },
+            {
+              "title": "El hueco entre el muro y la construcción colindante se encontraba llena de escombros, todo estos elementos han sido retirados con el trabajo de alpinistas debido a la imposibilidad de acceso al mismo.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS5%20Cancha/Tecnico/Cancha_T05.jpg"
+            },
+            {
+              "title": "Se rehicieron todos los elementos ornamentales del muro tales como cornisas y pináculos.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS5%20Cancha/Tecnico/Cancha_T06.jpg"
+            },
+            {
+              "title": "Se procedió finalmente a la aplicación del revoco y el pintado de los elementos del muro.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS5%20Cancha/Tecnico/Cancha_T07.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2017,
+                "resource": "https://www.betijaimadrid.es/image/HS5%20Cancha/Tecnico/Cancha_T08.jpg"
+              }
+            },
+            {
+              "title": "Una vez retirado todo el escombro por el intradós del muro se procedió a la recuperación del ladrillo, con el rejuntado y posterior impermeabilización de la zona inferior.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS5%20Cancha/Tecnico/Cancha_T09.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2017,
+                "resource": "https://www.betijaimadrid.es/image/HS5%20Cancha/Tecnico/Cancha_T10.jpg"
+              }
+            },
+            {
+              "title": "Para facilitar el mantenimiento del muro izquierdo de la cancha se ha montado una pasarela de acceso al marcador.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS5%20Cancha/Tecnico/Cancha_T11.jpg"
+            },
+            {
+              "title": "Finalmente se ha consolidado todo el ladrillo.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS5%20Cancha/Tecnico/Cancha_T12.jpg"
+            },
+            {
+              "title": "El muro izquierdo de la cancha ha recuperado tanto su estabilidad como su aspecto original.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2018,
+              "resource": "https://www.betijaimadrid.es/image/HS5%20Cancha/Tecnico/Cancha_T13.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Testimonios",
+          "media": [
+            {
+              "title": "",
+              "text": "<iframe style='width:100%;border:none;height:100%;'allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen;'src='https://www.youtube.com/embed/PTyU586_GkI'></iframe>",
+              "year": 2019,
+              "mediaType": "html",
+              "resource": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "zoneId": 2,
+      "id": 6,
+      "name": "El espacio interior",
+      "location": "-2.84,11.21,-26.92",
+      "sections": [
+        {
+          "name": "Antes/Despues",
+          "imageText": "Sub image text",
+          "media": [
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS6%20Espacio%20interior/Antes%20y%20despues/Int-dentro_A01a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS6%20Espacio%20interior/Antes%20y%20despues/Int-dentro_A01d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS6%20Espacio%20interior/Antes%20y%20despues/Int-dentro_A02a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS6%20Espacio%20interior/Antes%20y%20despues/Int-dentro_A02d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS6%20Espacio%20interior/Antes%20y%20despues/Int-dentro_A03a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS6%20Espacio%20interior/Antes%20y%20despues/Int-dentro_A03d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2016,
+              "resource": "https://www.betijaimadrid.es/image/HS6%20Espacio%20interior/Antes%20y%20despues/Int-dentro_A04a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS6%20Espacio%20interior/Antes%20y%20despues/Int-dentro_A04d.jpg"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Técnico",
+          "imageText": "Sub image text",
+          "media": [
+            {
+              "title": "Fue necesario realizar el apeo del cuerpo principal en todas sus plantas debido al estado de degradación en que se encontraba para garantizar la seguridad en la fase de toma de datos.",
+              "mediaType": "image",
+              "year": 2016,
+              "resource": "https://www.betijaimadrid.es/image/HS6%20Espacio%20interior/Tecnico/Int-dentro_T01.jpg"
+            },
+            {
+              "title": "Una vez asegurada la estructura se procedió a realizar un estudio pormenorizado de los materiales empleados y del estado en que se encontraban.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2016,
+              "resource": "https://www.betijaimadrid.es/image/HS6%20Espacio%20interior/Tecnico/Int-dentro_T02.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2016,
+                "resource": "https://www.betijaimadrid.es/image/HS6%20Espacio%20interior/Tecnico/Int-dentro_T03.jpg"
+              }
+            },
+            {
+              "title": "Se comenzó reforzando la cimentación con la ejecución de micropilotes y realizando encepados, para lo que fue necesario apear la estructura.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2016,
+              "resource": "https://www.betijaimadrid.es/image/HS6%20Espacio%20interior/Tecnico/Int-dentro_T04.jpg"
+            },
+            {
+              "title": "El refuerzo en los muros debido al desplome histórico existente en estos se ha resuelto con la ejecución de un muro forro, armado y proyectado.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2016,
+              "resource": "https://www.betijaimadrid.es/image/HS6%20Espacio%20interior/Tecnico/Int-dentro_T05.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2017,
+                "resource": "https://www.betijaimadrid.es/image/HS6%20Espacio%20interior/Tecnico/Int-dentro_T06.jpg"
+              }
+            },
+            {
+              "title": "Se procedió a la demolición de los entrevigados del forjado y a la limpieza, nivelación y protección de las viguetas antiguas.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2016,
+              "resource": "https://www.betijaimadrid.es/image/HS6%20Espacio%20interior/Tecnico/Int-dentro_T07.jpg"
+            },
+            {
+              "title": "Los forjados del cuerpo principal se han reforzado manteniendo la estética original con las viguetas de ala estrecha originales, para ello se han ejecutado unos nuevos nervios de hormigón embebidos en el antiguo forjado.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2016,
+              "resource": "https://www.betijaimadrid.es/image/HS6%20Espacio%20interior/Tecnico/Int-dentro_T08.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2017,
+                "resource": "https://www.betijaimadrid.es/image/HS6%20Espacio%20interior/Tecnico/Int-dentro_T09.jpg"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Testimonios",
+          "media": [
+            {
+              "title": "",
+              "text": "<iframe style='width:100%;border:none;height:100%;'allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen;'src='https://www.youtube.com/embed/oyAYhmDmp_I'></iframe>",
+              "year": 2019,
+              "mediaType": "html",
+              "resource": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "zoneId": 2,
+      "id": 7,
+      "name": "La fachada interior",
+      "location": "-7.08,6.38,-25.9",
+      "sections": [
+        {
+          "name": "Antes/Despues",
+          "imageText": "Sub image text",
+          "media": [
+            {
+              "title": "Fuente: archivo histórico del COAM",
+              "text": "",
+              "mediaType": "image",
+              "year": 1977,
+              "resource": "https://www.betijaimadrid.es/image/HS7%20Fachada%20interior/Antes%20y%20despues/Interior_A01a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS7%20Fachada%20interior/Antes%20y%20despues/Interior_A01d.jpg"
+              }
+            },
+            {
+              "title": "Fuente: archivo histórico del COAM",
+              "text": "",
+              "mediaType": "image",
+              "year": 1977,
+              "resource": "https://www.betijaimadrid.es/image/HS7%20Fachada%20interior/Antes%20y%20despues/Interior_A02a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS7%20Fachada%20interior/Antes%20y%20despues/Interior_A02d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS7%20Fachada%20interior/Antes%20y%20despues/Interior_A03a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS7%20Fachada%20interior/Antes%20y%20despues/Interior_A03d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2010,
+              "resource": "https://www.betijaimadrid.es/image/HS7%20Fachada%20interior/Antes%20y%20despues/Interior_A04a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS7%20Fachada%20interior/Antes%20y%20despues/Interior_A04d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS7%20Fachada%20interior/Antes%20y%20despues/Interior_A05a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS7%20Fachada%20interior/Antes%20y%20despues/Interior_A05d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2008,
+              "resource": "https://www.betijaimadrid.es/image/HS7%20Fachada%20interior/Antes%20y%20despues/Interior_A06a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS7%20Fachada%20interior/Antes%20y%20despues/Interior_A06d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS7%20Fachada%20interior/Antes%20y%20despues/Interior_A07a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS7%20Fachada%20interior/Antes%20y%20despues/Interior_A07d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2008,
+              "resource": "https://www.betijaimadrid.es/image/HS7%20Fachada%20interior/Antes%20y%20despues/Interior_A08a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS7%20Fachada%20interior/Antes%20y%20despues/Interior_A08d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2010,
+              "resource": "https://www.betijaimadrid.es/image/HS7%20Fachada%20interior/Antes%20y%20despues/Interior_A09a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS7%20Fachada%20interior/Antes%20y%20despues/Interior_A09d.jpg"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Curiosidades",
+          "media": [
+            {
+              "title": "En esta fachada se unen dos elementos totalmente diferenciados, el frontis de la cancha y la fachada de inspiración árabe del cuerpo principal.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2018,
+              "resource": "https://www.betijaimadrid.es/image/HS7%20Fachada%20interior/Curiosidades/Interior_C01.jpg"
+            },
+            {
+              "title": "En el frontis aún se puede apreciar la huella de las cubiertas de las naves que existían en el taller de automóviles. Fuente: archivo histórico del COAM ",
+              "text": "",
+              "mediaType": "image",
+              "year": 1977,
+              "resource": "https://www.betijaimadrid.es/image/HS7%20Fachada%20interior/Curiosidades/Interior_C02.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS7%20Fachada%20interior/Curiosidades/Interior_C03.jpg"
+              }
+            },
+            {
+              "title": "En la fachada interior aún quedaban restos de las letras originales de Beti Jai encima de la puerta por la que se accedía a la cancha, que se utilizaron para la fabricación de las nuevas.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS7%20Fachada%20interior/Curiosidades/Interior_C04.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2017,
+                "resource": "https://www.betijaimadrid.es/image/HS7%20Fachada%20interior/Curiosidades/Interior_C05.jpg"
+              }
+            },
+            {
+              "title": "El arco de herradura apuntado de inspiración árabe por el que se accedía estaba prácticamente destrozado. Por suerte, en el interior del edificio, al retirar las paredes de ladrillo adosado, se descubrió el mismo arco en un perfecto estado de conservación.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS7%20Fachada%20interior/Curiosidades/Interior_C06.jpg"
+            },
+            {
+              "title": "Justo debajo de este arco Joaquín Rucoba había proyectado la colocación del marcador. Posteriormente un marcador que se accionaba por impulsos eléctricos se instaló en la pared izquierda de la cancha.",
+              "text": "",
+              "mediaType": "image",
+              "year": 1893,
+              "resource": "https://www.betijaimadrid.es/image/HS7%20Fachada%20interior/Curiosidades/Interior_C07.jpg"
+            },
+            {
+              "title": "Aun se puede apreciar la existencia de unas argollas en la fachada que en su origen eran utilizadas para el izado de las banderas en los días de partido a través de unos registros en la planta segunda. Fuente: Guía de Madrid 1898.",
+              "text": "",
+              "mediaType": "image",
+              "year": 1898,
+              "resource": "https://www.betijaimadrid.es/image/HS7%20Fachada%20interior/Curiosidades/Interior_C09.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2016,
+                "resource": "https://www.betijaimadrid.es/image/HS7%20Fachada%20interior/Curiosidades/Interior_C08.jpg"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Técnico",
+          "media": [
+            {
+              "title": "La fachada interior había sido transformada por el uso del frontón como taller de vehículos. Uno de sus balcones había sido agrandado para el paso de coches y la colocación de una rampa.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2008,
+              "resource": "https://www.betijaimadrid.es/image/HS7%20Fachada%20interior/Tecnico/Interior_T01.jpg"
+            },
+            {
+              "title": "Fue necesaria la reconstrucción del hueco, para ello se utilizó el molde tomado del hueco simétrico a este que había sido tapiado pero aún conservaba su forma original.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS7%20Fachada%20interior/Tecnico/Interior_T02.jpg"
+            },
+            {
+              "title": "Debido al mal estado del revestimiento de la fachada fue necesario su total picado para poder proceder a rehacerlo un vez reforzado el paramento.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2016,
+              "resource": "https://www.betijaimadrid.es/image/HS7%20Fachada%20interior/Tecnico/Interior_T03.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2017,
+                "resource": "https://www.betijaimadrid.es/image/HS7%20Fachada%20interior/Tecnico/Interior_T04.jpg"
+              }
+            },
+            {
+              "title": "Se desmontaron los escudos y se obtuvieron moldes de los mismos para su reconstrucción.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS7%20Fachada%20interior/Tecnico/Interior_T05.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2017,
+                "resource": "https://www.betijaimadrid.es/image/HS7%20Fachada%20interior/Tecnico/Interior_T06.jpg"
+              }
+            },
+            {
+              "title": "Del arco apuntado árabe se realizó una plantilla del gemelo interior para poder reconstruirlo fielmente.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS7%20Fachada%20interior/Tecnico/Interior_T07.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2017,
+                "resource": "https://www.betijaimadrid.es/image/HS7%20Fachada%20interior/Tecnico/Interior_T08.jpg"
+              }
+            },
+            {
+              "title": "Se realizó una búsqueda entre distintas fábricas de ladrillo artesanal hasta encontrar aquella en la que el color y la composición fueran lo más parecido al ladrillo existente para reconstruir el hueco desaparecido.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS7%20Fachada%20interior/Tecnico/Interior_T09.jpg"
+            },
+            {
+              "title": "Todas las cornisas se han recuperado conservando las mismas dimensiones y aspecto que tenían las originales.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS7%20Fachada%20interior/Tecnico/Interior_T10.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Testimonios",
+          "media": [
+            {
+              "title": "",
+              "text": "<iframe style='width:100%;border:none;height:100%;'allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen;'src='https://www.youtube.com/embed/Go-Y1bKfdrY'></iframe>",
+              "year": 2019,
+              "mediaType": "html",
+              "resource": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "zoneId": 2,
+      "id": 8,
+      "name": "Las escaleras",
+      "location": "-16.54,7.55,-23.55",
+      "sections": [
+        {
+          "name": "Antes/Despues",
+          "imageText": "Sub image text",
+          "media": [
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS8%20Int%20gradas-escaleras/Antes%20y%20despues/Int-gradas_A01a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2019,
+                "resource": "https://www.betijaimadrid.es/image/HS8%20Int%20gradas-escaleras/Antes%20y%20despues/Int-gradas_A01d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS8%20Int%20gradas-escaleras/Antes%20y%20despues/Int-gradas_A02a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2019,
+                "resource": "https://www.betijaimadrid.es/image/HS8%20Int%20gradas-escaleras/Antes%20y%20despues/Int-gradas_A02d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS8%20Int%20gradas-escaleras/Antes%20y%20despues/Int-gradas_A03a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2019,
+                "resource": "https://www.betijaimadrid.es/image/HS8%20Int%20gradas-escaleras/Antes%20y%20despues/Int-gradas_A03d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS8%20Int%20gradas-escaleras/Antes%20y%20despues/Int-gradas_A04a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2019,
+                "resource": "https://www.betijaimadrid.es/image/HS8%20Int%20gradas-escaleras/Antes%20y%20despues/Int-gradas_A04d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS8%20Int%20gradas-escaleras/Antes%20y%20despues/Int-gradas_A05a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2019,
+                "resource": "https://www.betijaimadrid.es/image/HS8%20Int%20gradas-escaleras/Antes%20y%20despues/Int-gradas_A05d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS8%20Int%20gradas-escaleras/Antes%20y%20despues/Int-gradas_A06a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2019,
+                "resource": "https://www.betijaimadrid.es/image/HS8%20Int%20gradas-escaleras/Antes%20y%20despues/Int-gradas_A06d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS8%20Int%20gradas-escaleras/Antes%20y%20despues/Int-gradas_A07a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2019,
+                "resource": "https://www.betijaimadrid.es/image/HS8%20Int%20gradas-escaleras/Antes%20y%20despues/Int-gradas_A07d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS8%20Int%20gradas-escaleras/Antes%20y%20despues/Int-gradas_A08a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2019,
+                "resource": "https://www.betijaimadrid.es/image/HS8%20Int%20gradas-escaleras/Antes%20y%20despues/Int-gradas_A08d.jpg"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Técnico",
+          "imageText": "Sub image text",
+          "media": [
+            {
+              "title": "Algunos tramos de las escaleras del Beti Jai se habían deteriorado debido a la entrada de agua por diferentes zonas de la cubierta, fue necesario proceder a asegurar diferentes tramos de las mismas para garantizar su seguridad y la de los trabajadores.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS8%20Int%20gradas-escaleras/Tecnico/Int-gradas_T01.jpg"
+            },
+            {
+              "title": "Los trabajos para poder recuperar las escaleras comenzaron con el refuerzo de la estructura de las mismas.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS8%20Int%20gradas-escaleras/Tecnico/Int-gradas_T02.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2017,
+                "resource": "https://www.betijaimadrid.es/image/HS8%20Int%20gradas-escaleras/Tecnico/Int-gradas_T03.jpg"
+              }
+            },
+            {
+              "title": "Una vez estabilizadas, comenzó la labor de restauración mediante el lijado y acuchillado de peldaños, tarimas y pasamanos.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2018,
+              "resource": "https://www.betijaimadrid.es/image/HS8%20Int%20gradas-escaleras/Tecnico/Int-gradas_T04.jpg"
+            },
+            {
+              "title": "Lijada la escalera, se procedió a la reparación de las zonas dañados para lo que se reutilizó madera de otros elementos desmontados.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2018,
+              "resource": "https://www.betijaimadrid.es/image/HS8%20Int%20gradas-escaleras/Tecnico/Int-gradas_T05.jpg"
+            },
+            {
+              "title": "Se repuso en entablado original de madera bajo los tramos de escalera.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2018,
+              "resource": "https://www.betijaimadrid.es/image/HS8%20Int%20gradas-escaleras/Tecnico/Int-gradas_T06.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS8%20Int%20gradas-escaleras/Tecnico/Int-gradas_T07.jpg"
+              }
+            },
+            {
+              "title": "Se barnizaron todos los elementos de madera recuperando el aspecto de la escalera original  y se pintaron las barandillas.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2018,
+              "resource": "https://www.betijaimadrid.es/image/HS8%20Int%20gradas-escaleras/Tecnico/Int-gradas_T08.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS8%20Int%20gradas-escaleras/Tecnico/Int-gradas_T09.jpg"
+              }
+            },
+            {
+              "title": "Se repusieron elementos que habían sido sustraídos en la época de abandono, como la piña en el barrote de arranque, y se dio por terminada la restauración de la escalera.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2018,
+              "resource": "https://www.betijaimadrid.es/image/HS8%20Int%20gradas-escaleras/Tecnico/Int-gradas_T10.jpg"
+            },
+            {
+              "title": "La escalera de acceso a la cancha desde el edificio principal se ha reconstruido por completo. Se replanteó utilizando la huella que la misma había dejado en los paramentos y reconstruyendo en primer lugar su estructura.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2018,
+              "resource": "https://www.betijaimadrid.es/image/HS8%20Int%20gradas-escaleras/Tecnico/Int-gradas_T11.jpg"
+            },
+            {
+              "title": "La escalera de la zona trasera había sido destruida en su mayor parte por lo que fue necesario fabricar en taller tanto las zancas como el peldañeado.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2018,
+              "resource": "https://www.betijaimadrid.es/image/HS8%20Int%20gradas-escaleras/Tecnico/Int-gradas_T12.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Testimonios",
+          "media": [
+            {
+              "title": "",
+              "text": "<iframe style='width:100%;border:none;height:100%;'allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen;'src='https://www.youtube.com/embed/eAVuVu5P2oo'></iframe>",
+              "year": 2019,
+              "mediaType": "html",
+              "resource": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "zoneId": 6,
+      "id": 9,
+      "name": "Las gradas",
+      "location": "-5.48,7.54,9.78",
+      "sections": [
+        {
+          "name": "Antes/Despues",
+          "imageText": "Sub image text",
+          "media": [
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2008,
+              "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Antes%20y%20despues/Gradas_A01a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Antes%20y%20despues/Gradas_A01d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2008,
+              "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Antes%20y%20despues/Gradas_A02a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Antes%20y%20despues/Gradas_A02d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Antes%20y%20despues/Gradas_A03a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Antes%20y%20despues/Gradas_A03d.jpg"
+              }
+            },
+            {
+              "title": "Fuente: archivo histórico regional. Fotos de Santos Yubero.",
+              "text": "",
+              "mediaType": "image",
+              "year": 1977,
+              "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Antes%20y%20despues/Gradas_A04a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Antes%20y%20despues/Gradas_A04d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Antes%20y%20despues/Gradas_A05a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Antes%20y%20despues/Gradas_A05d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2008,
+              "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Antes%20y%20despues/Gradas_A06a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Antes%20y%20despues/Gradas_A06d.jpg"
+              }
+            },
+            {
+              "title": "Fuente: archivo histórico regional. Fotos de Santos Yubero.",
+              "text": "",
+              "mediaType": "image",
+              "year": 1977,
+              "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Antes%20y%20despues/Gradas_A07a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Antes%20y%20despues/Gradas_A07d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2008,
+              "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Antes%20y%20despues/Gradas_A08a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Antes%20y%20despues/Gradas_A08d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Antes%20y%20despues/Gradas_A09a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Antes%20y%20despues/Gradas_A09d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Antes%20y%20despues/Gradas_A10a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Antes%20y%20despues/Gradas_A10d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Antes%20y%20despues/Gradas_A11a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Antes%20y%20despues/Gradas_A11d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Antes%20y%20despues/Gradas_A12a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Antes%20y%20despues/Gradas_A12d.jpg"
+              }
+            },
+            {
+              "title": "Fuente: archivo histórico regional. Fotos de Santos Yubero.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2010,
+              "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Antes%20y%20despues/Gradas_A13a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Antes%20y%20despues/Gradas_A13d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Antes%20y%20despues/Gradas_A14a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Antes%20y%20despues/Gradas_A14d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Antes%20y%20despues/Gradas_A15a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Antes%20y%20despues/Gradas_A15d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Antes%20y%20despues/Gradas_A16a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Antes%20y%20despues/Gradas_A16d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Antes%20y%20despues/Gradas_A17a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Antes%20y%20despues/Gradas_A17d.jpg"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Curiosidades",
+          "imageText": "Sub image text",
+          "media": [
+            {
+              "title": "El cuerpo de gradas fue diseñado con la forma de la xistera, herramienta con la que se juega a la cesta punta, motivo que se repite en algunos otros elementos del frontón como los capiteles de la fachada principal.",
+              "text": "",
+              "mediaType": "image",
+              "year": 1893,
+              "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Curiosidades/Gradas_C01.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2019,
+                "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Curiosidades/Gradas_C02.jpg"
+              }
+            },
+            {
+              "title": "Las entradas se dividían en entradas de tendido, platea, de gradas y de andanada.",
+              "text": "",
+              "mediaType": "image",
+              "year": 1893,
+              "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Curiosidades/Gradas_C03.jpg"
+            },
+            {
+              "title": "En la platea se vendían también balcones que tenían capacidad para cinco personas y que se separaban del resto de sillas por una barandilla. Todos los palcos son iguales a excepción de uno, el llamado palco regio. Fuente: La vida galante, 1901.",
+              "text": "",
+              "mediaType": "image",
+              "year": 1901,
+              "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Curiosidades/Gradas_C04.jpg"
+            },
+            {
+              "title": "En la planta de gradas la altura es mayor, en su momento existió desde la escalera principal acceso a los dos niveles de esta planta para que los espectadores pudieran acomodarse y desalojar con mayor rapidez.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2018,
+              "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Curiosidades/Gradas_C05.jpg"
+            },
+            {
+              "title": "Las gradas permanecieron, durante todos los años que el Beti Jai estuvo abandonado, cegadas por un tabique en el que los remates de los palcos permanecieron ocultos",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Curiosidades/Gradas_C06.jpg"
+            },
+            {
+              "title": "En su interior se rodó en el año 1987 la película “Madrid” de Basilio Martín Patiño, protagonizada por la actriz Verónica Forqué.",
+              "text": "",
+              "mediaType": "image",
+              "year": 1987,
+              "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Curiosidades/Gradas_C06-2.jpg"
+            },
+            {
+              "title": "La planta primera de las gradas se utilizó para la ubicación de oficinas.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Curiosidades/Gradas_C07.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2015,
+                "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Curiosidades/Gradas_C08.jpg"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Técnico",
+          "imageText": "Sub image text",
+          "media": [
+            {
+              "title": "Previo al inicio de los trabajos, al igual que en el resto del edificio, fue necesario garantizar la seguridad de los trabajos con el apeo del cuerpo de gradas.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2016,
+              "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Tecnico/Gradas_T01.jpg"
+            },
+            {
+              "title": "Se desmontó la tarima instalada durante la época en la que la planta baja se utilizó como oficinas.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2016,
+              "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Tecnico/Gradas_T02.jpg"
+            },
+            {
+              "title": "Se eliminó todo el cerramiento que cegaba las gradas, recuperando el aspecto original de los palcos.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2016,
+              "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Tecnico/Gradas_T03.jpg"
+            },
+            {
+              "title": "Fue necesario proceder al refuerzo de la cimentación con micropilotes en la zona del cuerpo posterior.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2016,
+              "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Tecnico/Gradas_T04.jpg"
+            },
+            {
+              "title": "Se demolieron todos los entrevigados para limpiar, reforzar y proteger las viguetas originales.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Tecnico/Gradas_T05.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2017,
+                "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Tecnico/Gradas_T06.jpg"
+              }
+            },
+            {
+              "title": "Para garantizar la estabilidad del paramento exterior se realizó el refuerzo con un muro forro armado.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Tecnico/Gradas_T07.jpg"
+            },
+            {
+              "title": "Se recuperaron los revoltones ente las viguetas existentes no alterando la técnica constructiva original.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Tecnico/Gradas_T08.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2017,
+                "resource": "https://www.betijaimadrid.es/image/HS9%20Gradas/Tecnico/Gradas_T09.jpg"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Testimonios",
+          "media": [
+            {
+              "title": "",
+              "text": "<iframe style='width:100%;border:none;height:100%;'allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen;'src='https://www.youtube.com/embed/B-x6J0K4m8k'></iframe>",
+              "year": 2019,
+              "mediaType": "html",
+              "resource": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "zoneId": 5,
+      "id": 10,
+      "name": "La cubierta principal",
+      "location": "-7.18,16.66,-31.78",
+      "sections": [
+        {
+          "name": "Antes/Despues",
+          "imageText": "Sub image text",
+          "media": [
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS10%20Cubierta%20principal/Antes%20y%20despues/CubiertaP_A01a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2019,
+                "resource": "https://www.betijaimadrid.es/image/HS10%20Cubierta%20principal/Antes%20y%20despues/CubiertaP_A01d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS10%20Cubierta%20principal/Antes%20y%20despues/CubiertaP_A02a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2019,
+                "resource": "https://www.betijaimadrid.es/image/HS10%20Cubierta%20principal/Antes%20y%20despues/CubiertaP_A02d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS10%20Cubierta%20principal/Antes%20y%20despues/CubiertaP_A03a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS10%20Cubierta%20principal/Antes%20y%20despues/CubiertaP_A03d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS10%20Cubierta%20principal/Antes%20y%20despues/CubiertaP_A04a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2019,
+                "resource": "https://www.betijaimadrid.es/image/HS10%20Cubierta%20principal/Antes%20y%20despues/CubiertaP_A04d.jpg"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Curiosidades",
+          "imageText": "Sub image text",
+          "media": [
+            {
+              "title": "La cubierta del edificio de Marques de Riscal sufrió durante años falta de mantenimiento y abandono. En el año 2014 fue necesaria una actuación urgente por derrumbe parcial de esta.",
+              "mediaType": "image",
+              "year": 2014,
+              "resource": "https://www.betijaimadrid.es/image/HS10%20Cubierta%20principal/Curiosidades/CubiertaP_C01.jpg"
+            },
+            {
+              "title": "Ya que las tejas de la cubierta eran de época moderna siempre se pensó que la cubrición original había sido de zinc, al igual que en el resto de las cubiertas del frontón.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS10%20Cubierta%20principal/Curiosidades/CubiertaP_C02.jpg"
+            },
+            {
+              "title": "Durante el proceso de rehabilitación se encontraron unas tejas de época anterior.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2016,
+              "resource": "https://www.betijaimadrid.es/image/HS10%20Cubierta%20principal/Curiosidades/CubiertaP_C03.jpg"
+            },
+            {
+              "title": "En el reverso se podía leer la siguientes inscripciones : “La primera de Castilla la Vieja”, “Gran Tejería mecánica Eloy Silio”, “Valladolid”, “La mejor y  más económica para los tejados”.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2016,
+              "resource": "https://www.betijaimadrid.es/image/HS10%20Cubierta%20principal/Curiosidades/CubiertaP_C04.jpg"
+            },
+            {
+              "title": "En los periódicos de la época aparecen anuncios sobre la gran tejería de Eloy Silio ya en 1888. Se fundó en 1884 en Valladolid y anunciaban una gran revolución, la teja plana especial. Fuente: El Globo, 1884",
+              "text": "",
+              "mediaType": "image",
+              "year": 1884,
+              "resource": "https://www.betijaimadrid.es/image/HS10%20Cubierta%20principal/Curiosidades/CubiertaP_C05.jpg"
+            },
+            {
+              "title": "Para reconstruir la cubierta principal se han reproducido las tejas originales utilizando las antiguas para la obtención de moldes.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS10%20Cubierta%20principal/Curiosidades/CubiertaP_C06.jpg"
+            },
+            {
+              "title": "Las tejas originales que durante años permanecieron ocultas han sido fundamentales en la recuperación de un elemento tan importante como la cubierta del edificio de Marqués de Riscal.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS10%20Cubierta%20principal/Curiosidades/CubiertaP_C07.jpg"
+            },
+            {
+              "title": "La cubierta del cuerpo principal ha recuperado el aspecto que poseía en su origen tal y como Rucoba lo proyectó.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2018,
+              "resource": "https://www.betijaimadrid.es/image/HS10%20Cubierta%20principal/Curiosidades/CubiertaP_C08.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Técnico",
+          "imageText": "Sub image text",
+          "media": [
+            {
+              "title": "La estructura de la cubierta principal había sido dañada por la colocación de un canalón oculto, probabablemente cuando la cubierta se vio afectada por el derrumbe parcial de la misma.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS10%20Cubierta%20principal/Tecnico/CubiertaP_T01.jpg"
+            },
+            {
+              "title": "La cubierta del casetón de la escalera presentaba un deterioro avanzado provocando patologías en la estructura de madera.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS10%20Cubierta%20principal/Tecnico/CubiertaP_T02.jpg"
+            },
+            {
+              "title": "Las estructuras del casetón y la cubierta principal se desmontaron tomando cuantos datos fueron necesarios para proceder a su sustitución por otra de las mismas características y dimensiones.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS10%20Cubierta%20principal/Tecnico/CubiertaP_T03.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2017,
+                "resource": "https://www.betijaimadrid.es/image/HS10%20Cubierta%20principal/Tecnico/CubiertaP_T04.jpg"
+              }
+            },
+            {
+              "title": "Ambas estructuras del edificio principal han sido sustituidas por materiales de las mismas características y dimensiones que las originales.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS10%20Cubierta%20principal/Tecnico/CubiertaP_T05.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2017,
+                "resource": "https://www.betijaimadrid.es/image/HS10%20Cubierta%20principal/Tecnico/CubiertaP_T06.jpg"
+              }
+            },
+            {
+              "title": "Se procedió a la renovación de la cubierta de zinc del casetón con la misma técnica original, garantizando de esta manera la estanqueidad de la zona de la escalera.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2018,
+              "resource": "https://www.betijaimadrid.es/image/HS10%20Cubierta%20principal/Tecnico/CubiertaP_T07.jpg"
+            },
+            {
+              "title": "En la cubierta del edificio principal se colocaron las tejas reproducidas a partir de las originales encontradas en el edificio durante la restauración.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS10%20Cubierta%20principal/Tecnico/CubiertaP_T08.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2017,
+                "resource": "https://www.betijaimadrid.es/image/HS10%20Cubierta%20principal/Tecnico/CubiertaP_T09.jpg"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Testimonios",
+          "media": [
+            {
+              "title": "",
+              "text": "<iframe style='width:100%;border:none;height:100%;'allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen;'src='https://www.youtube.com/embed/GCyjbc1vjoE'></iframe>",
+              "year": 2019,
+              "mediaType": "html",
+              "resource": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "zoneId": 5,
+      "id": 11,
+      "name": "La cubierta de las gradas",
+      "location": "-12.39,16.81,-11.97",
+      "sections": [
+        {
+          "name": "Antes/Después",
+          "imageText": "Sub image text",
+          "media": [
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS11%20Cubierta%20gradas/Antes%20y%20despues/Cubierta_A01a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS11%20Cubierta%20gradas/Antes%20y%20despues/Cubierta_A01d.jpg"
+              }
+            },
+            {
+              "title": "Fuente: archivo histórico del COAM",
+              "text": "",
+              "mediaType": "image",
+              "year": 1977,
+              "resource": "https://www.betijaimadrid.es/image/HS11%20Cubierta%20gradas/Antes%20y%20despues/Cubierta_A02a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS11%20Cubierta%20gradas/Antes%20y%20despues/Cubierta_A02d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS11%20Cubierta%20gradas/Antes%20y%20despues/Cubierta_A03a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS11%20Cubierta%20gradas/Antes%20y%20despues/Cubierta_A03d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS11%20Cubierta%20gradas/Antes%20y%20despues/Cubierta_A04a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS11%20Cubierta%20gradas/Antes%20y%20despues/Cubierta_A04d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2010,
+              "resource": "https://www.betijaimadrid.es/image/HS11%20Cubierta%20gradas/Antes%20y%20despues/Cubierta_A05a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS11%20Cubierta%20gradas/Antes%20y%20despues/Cubierta_A05d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS11%20Cubierta%20gradas/Antes%20y%20despues/Cubierta_A06a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS11%20Cubierta%20gradas/Antes%20y%20despues/Cubierta_A06d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS11%20Cubierta%20gradas/Antes%20y%20despues/Cubierta_A07a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS11%20Cubierta%20gradas/Antes%20y%20despues/Cubierta_A07d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS11%20Cubierta%20gradas/Antes%20y%20despues/Cubierta_A08a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS11%20Cubierta%20gradas/Antes%20y%20despues/Cubierta_A08d.jpg"
+              }
+            },
+            {
+              "title": "",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS11%20Cubierta%20gradas/Antes%20y%20despues/Cubierta_A09a.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2018,
+                "resource": "https://www.betijaimadrid.es/image/HS11%20Cubierta%20gradas/Antes%20y%20despues/Cubierta_A09d.jpg"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Curiosidades",
+          "imageText": "Sub image text",
+          "media": [
+            {
+              "title": "La cubierta del cuerpo de gradas poseía un elemento tradicional de remate en este tipo de cubiertas que había desparecido con el paso de los años.",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS11%20Cubierta%20gradas/Curiosidades/Cubierta_C01.jpg"
+            },
+            {
+              "title": "Fue necesario recurrir a las fotos de Santos Yubero facilitadas por la Plataforma y a algunas de época posterior para poder reconstruir la pieza de remate de los canecillos. Fuente: archivo histórico regional. Foto de Santos Yubero.",
+              "text": "",
+              "mediaType": "image",
+              "year": 1977,
+              "resource": "https://www.betijaimadrid.es/image/HS11%20Cubierta%20gradas/Curiosidades/Cubierta_C02.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2015,
+                "resource": "https://www.betijaimadrid.es/image/HS11%20Cubierta%20gradas/Curiosidades/Cubierta_C03.jpg"
+              }
+            },
+            {
+              "title": "Esta pieza recordaba al motivo de alguno de los azulejos que aún se conservaban, que han sido desmontados, numerados y acopiados en el propio frontón.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS11%20Cubierta%20gradas/Curiosidades/Cubierta_C04.jpg"
+            },
+            {
+              "title": "Con todos estos datos y analizando las fotos con el uso de tecnologías avanzadas de análisis, fue posible redibujar la pieza de remate para su posterior fabricación.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS11%20Cubierta%20gradas/Curiosidades/Cubierta_C05.jpg"
+            },
+            {
+              "title": "Gracias a esto se ha recuperado la cubierta del cuerpo de gradas tal y como lucía en su origen.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2018,
+              "resource": "https://www.betijaimadrid.es/image/HS11%20Cubierta%20gradas/Curiosidades/Cubierta_C06.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Técnico",
+          "imageText": "Sub image text",
+          "media": [
+            {
+              "title": "La cubierta del cuerpo de gradas aún poseía la cubrición original de zinc en la mayoría de su superficie. En la zona en la que se había perdido la estructura de madera se encontraba en un avanzado estado de degradación.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS11%20Cubierta%20gradas/Tecnico/Cubierta_T01.jpg"
+            },
+            {
+              "title": "La estructura de la cubierta descansaba en uno de sus extremos en un muro apoyado en una carrera de madera embebido en el forjado de planta segunda. En la foto se puede apreciar el estado de la viga, motivo por el cual se procedió a su desmontaje y posterior refuerzo.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2015,
+              "resource": "https://www.betijaimadrid.es/image/HS11%20Cubierta%20gradas/Tecnico/Cubierta_T02.jpg"
+            },
+            {
+              "title": "Se fotografió y documentó la estructura de la cubierta, previo a su desmontaje, para poder proceder a su recuperación íntegra posteriormente.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2016,
+              "resource": "https://www.betijaimadrid.es/image/HS11%20Cubierta%20gradas/Tecnico/Cubierta_T03.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2016,
+                "resource": "https://www.betijaimadrid.es/image/HS11%20Cubierta%20gradas/Tecnico/Cubierta_T04.jpg"
+              }
+            },
+            {
+              "title": "Antes del desmontaje se arriostraron de los pilares de fundición para garantizar su estabilidad.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2016,
+              "resource": "https://www.betijaimadrid.es/image/HS11%20Cubierta%20gradas/Tecnico/Cubierta_T05.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2016,
+                "resource": "https://www.betijaimadrid.es/image/HS11%20Cubierta%20gradas/Tecnico/Cubierta_T06.jpg"
+              }
+            },
+            {
+              "title": "Se procedió al desmontaje de todos los elementos de la cubierta una vez apeado el forjado inferior y arriostrados los pilares.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2016,
+              "resource": "https://www.betijaimadrid.es/image/HS11%20Cubierta%20gradas/Tecnico/Cubierta_T07.jpg"
+            },
+            {
+              "title": "Se reconstruyó el forjado de la última planta garantizando la estabilidad del muro de apoyo de la cubierta de gradas.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2016,
+              "resource": "https://www.betijaimadrid.es/image/HS11%20Cubierta%20gradas/Tecnico/Cubierta_T08.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2016,
+                "resource": "https://www.betijaimadrid.es/image/HS11%20Cubierta%20gradas/Tecnico/Cubierta_T09.jpg"
+              }
+            },
+            {
+              "title": "Finalmente se rehízo el muro de apoyo y se procedió al montaje de la cubierta con la misma disposición y materiales que la original.",
+              "text": "",
+              "mediaType": "image",
+              "year": 2017,
+              "resource": "https://www.betijaimadrid.es/image/HS11%20Cubierta%20gradas/Tecnico/Cubierta_T10.jpg",
+              "linkedMedia": {
+                "title": "",
+                "text": "",
+                "mediaType": "image",
+                "year": 2017,
+                "resource": "https://www.betijaimadrid.es/image/HS11%20Cubierta%20gradas/Tecnico/Cubierta_T11.jpg"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Testimonios",
+          "media": [
+            {
+              "title": "",
+              "text": "<iframe style='width:100%;border:none;height:100%;'allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen;'src='https://www.youtube.com/embed/urFzIM-oas8'></iframe>",
+              "year": 2019,
+              "mediaType": "html",
+              "resource": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

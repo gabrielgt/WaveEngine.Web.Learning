@@ -348,3 +348,17 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# WaveEngine
+.waveengine/
+WaveContent.cs
+!**/Content/**/*.obj
+
+# ASP.NET/.NET Wasm
+**/wwwroot/lib
+**/wwwroot/waveengine/managed
+**/wwwroot/waveengine/*.deps.json
+**/wwwroot/waveengine/*.dll.config
+**/wwwroot/waveengine/content.*
+**/wwwroot/waveengine/dotnet.*
+**/wwwroot/waveengine/runtime.js

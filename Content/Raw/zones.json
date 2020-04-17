@@ -1,0 +1,53 @@
+{
+    "zones": [
+        {
+            "id": 1,
+            "name": "La Fachada Principal",
+            "location": "-3623.98633,277.4878,-6121.199",
+            "rotate": "-0.165,0.703,0",
+            "cameraProperties": []
+        },
+        {
+            "id": 2,
+            "name": "La Fachada Posterior",
+            "location": "1128.503,475.718,-675.084",
+            "rotate": "-0.139,-2.438,0",
+            "cameraProperties": []
+        },
+        {
+            "id": 3,
+            "name": "El callejón",
+            "location": "-4906.574,137.554,6803.915",
+            "rotate": "-0.148,2.413,0",
+            "cameraProperties": []
+        },
+        {
+            "id": 4,
+            "name": "La Cancha",
+            "location": "2824.297,140.513,2613.564",
+            "rotate": "-0.139,-2.124,0",
+            "cameraProperties": []
+        },
+        {
+            "id": 5,
+            "name": "La Cubierta",
+            "location": "1932.839,3983.825,-5505.009",
+            "rotate": "0.638,-0.492,0",
+            "cameraProperties": []
+        },
+        {
+            "id": 6,
+            "name": "Las Gradas",
+            "location": "951.260,198.482,-2663.720",
+            "rotate": "-0.165,-0.344,0",
+            "cameraProperties": []
+        },
+        {
+            "id": 7,
+            "name": "La Trasera",
+            "location": "121.448,214.769,7896.732",
+            "rotate": "-0.139,2.929,0",
+            "cameraProperties": []
+        }
+    ]
+}

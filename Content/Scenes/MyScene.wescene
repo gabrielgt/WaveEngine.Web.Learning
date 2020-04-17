@@ -1,0 +1,883 @@
+!WaveEngine.Framework.Assets.AssetSources.Entities.SceneModel,WaveEngine.Framework
+Items:
+  - !WaveEngine.Framework.Assets.AssetSources.Entities.EntityItemModel,WaveEngine.Framework
+    Name: camera
+    Tag: null
+    IsEnabled: true
+    IsStatic: false
+    Components:
+      - !WaveEngine.Framework.Graphics.Transform3D,WaveEngine.Framework
+        Id: 9535e3ad-3b77-45b6-8e69-6e69e790ee74
+        IsEnabled: true
+        LocalOrientation:
+          W: 0.938255847
+          X: 0.0953260809
+          Y: -0.330845833
+          Z: 0.0336137749
+        LocalPosition:
+          X: -36.2400017
+          Y: 2.7750001
+          Z: 61.2120018
+        LocalScale:
+          X: 1.0
+          Y: 1.0
+          Z: 1.0
+      - !WaveEngine.Components.Cameras.FreeCamera3D,WaveEngine.Components
+        Id: 47fbbdf4-3bfd-4577-944b-c8e07c74c1e0
+        IsEnabled: true
+        MaxPitch: 1.49225616
+        MouseSensibility: 0.0299999993
+        Speed: 5.0
+        TouchMoveAndOrientationRatio: 0.5
+        TouchSensibility: 1.0
+        UpdateOrder: 0.5
+      - !WaveEngine.Framework.Graphics.Camera3D,WaveEngine.Framework
+        Id: 260fa67e-6e97-4c7d-b884-40e5ac55e4e5
+        Aperture: 1.0
+        AspectRatio: 1.76174498
+        BackgroundColor:
+          A: 255
+          B: 237
+          G: 149
+          R: 100
+        CameraOrder: 0.0
+        ClearDepth: 1.0
+        ClearFlags: All
+        ClearStencil: 0
+        Compensation: 0.0
+        CustomProjection: null
+        DepthRange:
+          MaxDepth: 1.0
+          MinDepth: 0.0
+        DisplayTag: null
+        DisplayTagDirty: true
+        Exposure: 1.00000012
+        FarPlane: 1000.0
+        FieldOfView: 0.785398185
+        FieldOfViewAxis: Vertical
+        FrustumCullingEnabled: true
+        IsEnabled: true
+        LayerMaskDefaultValue: true
+        NearPlane: 0.100000001
+        ScreenViewport:
+          Height: 298.0
+          MaxDepth: 1.0
+          MinDepth: 0.0
+          Width: 525.0
+          X: 0.0
+          Y: 0.0
+        Sensitivity: 100.0
+        ShutterSpeed: 1.20000005
+        UpVector:
+          X: 0.0
+          Y: 1.0
+          Z: 0.0
+      - !BetiJaiDemo.Behaviors.CameraTravellingBehavior,BetiJaiDemo
+        Id: b57034e0-a05d-44d9-b905-301981a20f77
+        IsEnabled: true
+        UpdateOrder: 0.5
+    Children: []
+    Id: 98354db1-0b47-499e-9d73-9c2fa39ae97e
+  - !WaveEngine.Framework.Assets.AssetSources.Entities.EntityItemModel,WaveEngine.Framework
+    Name: light
+    Tag: null
+    IsEnabled: true
+    IsStatic: false
+    Components:
+      - !WaveEngine.Framework.Graphics.Transform3D,WaveEngine.Framework
+        Id: c71f9e8a-c875-415c-ab4b-66e58460ce29
+        IsEnabled: true
+        LocalOrientation:
+          W: 0.853553474
+          X: 0.146446586
+          Y: -0.353553355
+          Z: -0.353553355
+        LocalPosition:
+          X: 4.0
+          Y: 4.0
+          Z: 4.0
+        LocalScale:
+          X: 1.0
+          Y: 1.0
+          Z: 1.0
+      - !WaveEngine.Framework.Graphics.DirectionalLight,WaveEngine.Framework
+        Id: da66f419-0433-4ba6-8f69-e92d8bbc23a7
+        Color:
+          A: 255
+          B: 255
+          G: 255
+          R: 255
+        Intensity: 1.0
+        IsEnabled: true
+    Children: []
+    Id: a6b99b15-b95f-4749-bf72-6200f6fa5d37
+  - !WaveEngine.Framework.Assets.AssetSources.Entities.EntityItemModel,WaveEngine.Framework
+    Name: BetiJai_glb
+    Tag: null
+    IsEnabled: true
+    IsStatic: false
+    Components:
+      - !WaveEngine.Framework.Graphics.Transform3D,WaveEngine.Framework
+        Id: 443d95cb-d01d-43b1-b5d0-d8fdee54d6a1
+        IsEnabled: true
+        LocalOrientation:
+          W: 1.0
+          X: 0.0
+          Y: 0.0
+          Z: 0.0
+        LocalPosition:
+          X: 0.0
+          Y: 0.0
+          Z: 0.0
+        LocalScale:
+          X: 1.0
+          Y: 1.0
+          Z: 1.0
+    Children:
+      - !WaveEngine.Framework.Assets.AssetSources.Entities.EntityItemModel,WaveEngine.Framework
+        Name: Spot001_Target
+        Tag: null
+        IsEnabled: true
+        IsStatic: false
+        Components:
+          - !WaveEngine.Framework.Graphics.Transform3D,WaveEngine.Framework
+            Id: 1dffda61-9797-4821-953b-9afcb4e70f0f
+            IsEnabled: true
+            LocalOrientation:
+              W: 1.0
+              X: 0.0
+              Y: 0.0
+              Z: 0.0
+            LocalPosition:
+              X: -7.48457146
+              Y: 23.8634682
+              Z: 14.1718254
+            LocalScale:
+              X: 1.0
+              Y: 1.0
+              Z: 1.0
+        Children: []
+        Id: 160413c4-6dfd-4153-970f-7f377695706e
+      - !WaveEngine.Framework.Assets.AssetSources.Entities.EntityItemModel,WaveEngine.Framework
+        Name: PhysCamera001_Target
+        Tag: null
+        IsEnabled: true
+        IsStatic: false
+        Components:
+          - !WaveEngine.Framework.Graphics.Transform3D,WaveEngine.Framework
+            Id: 51502a86-2654-4808-b9fc-80b5bc790552
+            IsEnabled: true
+            LocalOrientation:
+              W: 0.702236354
+              X: 0.64914012
+              Y: -0.214694008
+              Z: 0.198463321
+            LocalPosition:
+              X: -18.6318188
+              Y: 8.73770809
+              Z: 39.7898407
+            LocalScale:
+              X: 0.999999166
+              Y: 0.999999046
+              Z: 1.00000024
+        Children: []
+        Id: f0e40622-47ff-412c-86b7-776320809c5e
+      - !WaveEngine.Framework.Assets.AssetSources.Entities.EntityItemModel,WaveEngine.Framework
+        Name: PhysCamera002_Target
+        Tag: null
+        IsEnabled: true
+        IsStatic: false
+        Components:
+          - !WaveEngine.Framework.Graphics.Transform3D,WaveEngine.Framework
+            Id: 4cb530d5-6a6c-4cdc-9c50-5d705b69cd5c
+            IsEnabled: true
+            LocalOrientation:
+              W: 0.702236354
+              X: 0.64914012
+              Y: -0.214694008
+              Z: 0.198463321
+            LocalPosition:
+              X: -17.9376755
+              Y: 12.4097919
+              Z: -21.338398
+            LocalScale:
+              X: 0.999999166
+              Y: 0.999999046
+              Z: 1.00000024
+        Children: []
+        Id: acd8b638-41e6-4505-91e7-4ec0bb54ee7d
+      - !WaveEngine.Framework.Assets.AssetSources.Entities.EntityItemModel,WaveEngine.Framework
+        Name: PhysCamera003_Target
+        Tag: null
+        IsEnabled: true
+        IsStatic: false
+        Components:
+          - !WaveEngine.Framework.Graphics.Transform3D,WaveEngine.Framework
+            Id: 08020631-b6ac-477a-aaa8-c17d0c1a7b09
+            IsEnabled: true
+            LocalOrientation:
+              W: 0.702236354
+              X: 0.64914012
+              Y: -0.214694008
+              Z: 0.198463321
+            LocalPosition:
+              X: 8.33064556
+              Y: 8.1435976
+              Z: -45.6078911
+            LocalScale:
+              X: 0.999999166
+              Y: 0.999999046
+              Z: 1.00000024
+        Children: []
+        Id: 62878ed2-e50e-4b07-97b8-514f823c4733
+      - !WaveEngine.Framework.Assets.AssetSources.Entities.EntityItemModel,WaveEngine.Framework
+        Name: PhysCamera004_Target
+        Tag: null
+        IsEnabled: true
+        IsStatic: false
+        Components:
+          - !WaveEngine.Framework.Graphics.Transform3D,WaveEngine.Framework
+            Id: 428b7ace-878e-4b30-a4b5-58655876a637
+            IsEnabled: true
+            LocalOrientation:
+              W: 0.702236354
+              X: 0.64914012
+              Y: -0.214694008
+              Z: 0.198463321
+            LocalPosition:
+              X: -8.30926514
+              Y: 7.90029144
+              Z: 19.0359783
+            LocalScale:
+              X: 0.999999166
+              Y: 0.999999046
+              Z: 1.00000024
+        Children: []
+        Id: edd75678-ca08-44ad-aea2-867774c6b82d
+      - !WaveEngine.Framework.Assets.AssetSources.Entities.EntityItemModel,WaveEngine.Framework
+        Name: Spot002_Target
+        Tag: null
+        IsEnabled: true
+        IsStatic: false
+        Components:
+          - !WaveEngine.Framework.Graphics.Transform3D,WaveEngine.Framework
+            Id: 46bc3876-0235-45be-80a8-e2e9d616447f
+            IsEnabled: true
+            LocalOrientation:
+              W: 1.0
+              X: 0.0
+              Y: 0.0
+              Z: 0.0
+            LocalPosition:
+              X: -0.59972775
+              Y: 12.3434792
+              Z: 1.60606718
+            LocalScale:
+              X: 1.0
+              Y: 1.0
+              Z: 1.0
+        Children: []
+        Id: 2b479826-6664-4f21-b1a3-224afd37f009
+      - !WaveEngine.Framework.Assets.AssetSources.Entities.EntityItemModel,WaveEngine.Framework
+        Name: PhysCamera005_Target
+        Tag: null
+        IsEnabled: true
+        IsStatic: false
+        Components:
+          - !WaveEngine.Framework.Graphics.Transform3D,WaveEngine.Framework
+            Id: 552714b0-4964-42ed-859e-6354a3f23823
+            IsEnabled: true
+            LocalOrientation:
+              W: 0.702236354
+              X: 0.64914012
+              Y: -0.214694008
+              Z: 0.198463321
+            LocalPosition:
+              X: 6.82696342
+              Y: 8.55671787
+              Z: -18.3807316
+            LocalScale:
+              X: 0.999999166
+              Y: 0.999999046
+              Z: 1.00000024
+        Children: []
+        Id: 43872086-d215-494e-810e-327ab9de0d9c
+      - !WaveEngine.Framework.Assets.AssetSources.Entities.EntityItemModel,WaveEngine.Framework
+        Name: Default light
+        Tag: null
+        IsEnabled: true
+        IsStatic: false
+        Components:
+          - !WaveEngine.Framework.Graphics.Transform3D,WaveEngine.Framework
+            Id: 0f974e43-7406-4376-a7d5-7d9e0832ccce
+            IsEnabled: true
+            LocalOrientation:
+              W: 1.0
+              X: 0.0
+              Y: 0.0
+              Z: 0.0
+            LocalPosition:
+              X: 0.0
+              Y: 0.0
+              Z: 0.0
+            LocalScale:
+              X: 1.0
+              Y: 1.0
+              Z: 1.0
+        Children: []
+        Id: 4ff0134d-4609-4229-9413-93e34587a20c
+      - !WaveEngine.Framework.Assets.AssetSources.Entities.EntityItemModel,WaveEngine.Framework
+        Name: oscuridad
+        Tag: null
+        IsEnabled: true
+        IsStatic: false
+        Components:
+          - !WaveEngine.Framework.Graphics.Transform3D,WaveEngine.Framework
+            Id: f17a8b27-c72f-472e-ab8b-7de4823a2d58
+            IsEnabled: true
+            LocalOrientation:
+              W: 1.0
+              X: 0.0
+              Y: 0.0
+              Z: 0.0
+            LocalPosition:
+              X: -7.9359374
+              Y: 4.00708103
+              Z: 35.1117516
+            LocalScale:
+              X: 1.0
+              Y: 1.0
+              Z: 1.0
+          - !WaveEngine.Components.Graphics3D.MaterialComponent,WaveEngine.Framework
+            Id: 0d7b6228-4c46-4b3a-8a38-37f7d9153f85
+            AsignedTo: 'Material #146'
+            IsEnabled: true
+            Material: 57e8ae87-6e0e-4160-a81f-c229daebb3a3
+          - !WaveEngine.Components.Graphics3D.MeshComponent,WaveEngine.Framework
+            Id: 824d8a5b-c490-472c-858f-a02c7960badc
+            IsEnabled: true
+            Model: d59dbfae-baa7-436d-aee2-b967b4b98077
+            ModelMeshName: _Mesh_0
+          - !WaveEngine.Components.Graphics3D.MeshRenderer,WaveEngine.Framework
+            Id: 4367da62-d36f-4454-ac7c-2e14bbe51116
+            DebugBoundingbox: true
+            FrustumCullingEnabled: true
+            IsEnabled: true
+            OrderBias: 0
+        Children: []
+        Id: f17359bb-b3fc-46a2-a6b6-13e750eaf2cd
+      - !WaveEngine.Framework.Assets.AssetSources.Entities.EntityItemModel,WaveEngine.Framework
+        Name: Fachadas_Ladrillos
+        Tag: null
+        IsEnabled: true
+        IsStatic: false
+        Components:
+          - !WaveEngine.Framework.Graphics.Transform3D,WaveEngine.Framework
+            Id: 70389ebb-ea1c-4d9a-9fdf-34df56fe0d31
+            IsEnabled: true
+            LocalOrientation:
+              W: 0.434760869
+              X: 0.434761107
+              Y: -0.557658255
+              Z: 0.557658494
+            LocalPosition:
+              X: -4.32621098
+              Y: 5.64182377
+              Z: -43.9648247
+            LocalScale:
+              X: 1.0
+              Y: 1.0
+              Z: 1.0
+          - !WaveEngine.Components.Graphics3D.MaterialComponent,WaveEngine.Framework
+            Id: 99c7ae84-1902-4ec9-935e-ab10de3e3014
+            AsignedTo: Fachadas_Ladrillos
+            IsEnabled: true
+            Material: e88fa774-1c67-4d69-bd10-e9961bdb6aa5
+          - !WaveEngine.Components.Graphics3D.MeshComponent,WaveEngine.Framework
+            Id: a0cf130e-5f8f-4810-94ea-6886fd4684c7
+            IsEnabled: true
+            Model: d59dbfae-baa7-436d-aee2-b967b4b98077
+            ModelMeshName: _Mesh_1
+          - !WaveEngine.Components.Graphics3D.MeshRenderer,WaveEngine.Framework
+            Id: db72183b-d344-43a7-817d-7976e43d6fd6
+            DebugBoundingbox: true
+            FrustumCullingEnabled: true
+            IsEnabled: true
+            OrderBias: 0
+        Children: []
+        Id: f54afbdc-b890-4210-a74d-f877245d3051
+      - !WaveEngine.Framework.Assets.AssetSources.Entities.EntityItemModel,WaveEngine.Framework
+        Name: Suelo
+        Tag: null
+        IsEnabled: true
+        IsStatic: false
+        Components:
+          - !WaveEngine.Framework.Graphics.Transform3D,WaveEngine.Framework
+            Id: 32638d59-4c04-48c1-9c04-7efe0a5c7b01
+            IsEnabled: true
+            LocalOrientation:
+              W: 1.0
+              X: 0.0
+              Y: 0.0
+              Z: 0.0
+            LocalPosition:
+              X: 2.75124741
+              Y: 0.0770031735
+              Z: -5.61987782
+            LocalScale:
+              X: 1.0
+              Y: 1.0
+              Z: 1.0
+          - !WaveEngine.Components.Graphics3D.MaterialComponent,WaveEngine.Framework
+            Id: 93a89f4a-f84c-4348-9c45-f62c0e77d195
+            AsignedTo: Suelo
+            IsEnabled: true
+            Material: 49371e7c-f017-4ab5-b397-a9ad7d69c64f
+          - !WaveEngine.Components.Graphics3D.MeshComponent,WaveEngine.Framework
+            Id: f415febc-88b6-411f-a843-53966347f9bd
+            IsEnabled: true
+            Model: d59dbfae-baa7-436d-aee2-b967b4b98077
+            ModelMeshName: _Mesh_2
+          - !WaveEngine.Components.Graphics3D.MeshRenderer,WaveEngine.Framework
+            Id: ee547a21-aecd-4c89-9e3d-6dbb8c3e7e9d
+            DebugBoundingbox: true
+            FrustumCullingEnabled: true
+            IsEnabled: true
+            OrderBias: 0
+        Children: []
+        Id: 7a0107fd-bf66-4d4f-b109-e26d34495f4a
+      - !WaveEngine.Framework.Assets.AssetSources.Entities.EntityItemModel,WaveEngine.Framework
+        Name: Pared_Gradas_Cemento
+        Tag: null
+        IsEnabled: true
+        IsStatic: false
+        Components:
+          - !WaveEngine.Framework.Graphics.Transform3D,WaveEngine.Framework
+            Id: cd8dbf8f-00de-4793-8b0c-b3aa5291cbbc
+            IsEnabled: true
+            LocalOrientation:
+              W: 0.991622746
+              X: 0.0
+              Y: -0.129167795
+              Z: 0.0
+            LocalPosition:
+              X: 18.7663937
+              Y: -0.188474655
+              Z: -3.50658202
+            LocalScale:
+              X: 1.0
+              Y: 1.0
+              Z: 1.0
+          - !WaveEngine.Components.Graphics3D.MaterialComponent,WaveEngine.Framework
+            Id: 9a4f57da-73f5-4ae5-ab9e-43af296a98aa
+            AsignedTo: Pared_Gradas_Cemento
+            IsEnabled: true
+            Material: 62b5c980-9335-4f83-bae3-95084586310f
+          - !WaveEngine.Components.Graphics3D.MeshComponent,WaveEngine.Framework
+            Id: b3afb825-74f0-4b84-9cf2-dc85313fb93e
+            IsEnabled: true
+            Model: d59dbfae-baa7-436d-aee2-b967b4b98077
+            ModelMeshName: _Mesh_3
+          - !WaveEngine.Components.Graphics3D.MeshRenderer,WaveEngine.Framework
+            Id: bb4d8618-415f-4658-95e9-f6ab1c8c9d57
+            DebugBoundingbox: true
+            FrustumCullingEnabled: true
+            IsEnabled: true
+            OrderBias: 0
+        Children: []
+        Id: 5e1ec90c-ebb6-44d8-a25a-06047c988c3d
+      - !WaveEngine.Framework.Assets.AssetSources.Entities.EntityItemModel,WaveEngine.Framework
+        Name: Bajo_Techo_Bordes
+        Tag: null
+        IsEnabled: true
+        IsStatic: false
+        Components:
+          - !WaveEngine.Framework.Graphics.Transform3D,WaveEngine.Framework
+            Id: 83d35986-0937-4be5-9a52-b2907fff4501
+            IsEnabled: true
+            LocalOrientation:
+              W: 0.991622746
+              X: 0.0
+              Y: -0.129167795
+              Z: 0.0
+            LocalPosition:
+              X: 18.7663937
+              Y: -0.188474655
+              Z: -3.50658202
+            LocalScale:
+              X: 1.0
+              Y: 1.0
+              Z: 1.0
+          - !WaveEngine.Components.Graphics3D.MaterialComponent,WaveEngine.Framework
+            Id: ee7b804e-9a96-468d-9079-c8687e7a7a6a
+            AsignedTo: Bajo_Techo_Bordes
+            IsEnabled: true
+            Material: bebcf8f3-344d-4d68-92c2-b4ced8900667
+          - !WaveEngine.Components.Graphics3D.MeshComponent,WaveEngine.Framework
+            Id: 18abbb97-68ef-4f51-8100-022ed91ad9fc
+            IsEnabled: true
+            Model: d59dbfae-baa7-436d-aee2-b967b4b98077
+            ModelMeshName: _Mesh_4
+          - !WaveEngine.Components.Graphics3D.MeshRenderer,WaveEngine.Framework
+            Id: 026f470a-e4b9-4197-ad4d-4f1eec746b6c
+            DebugBoundingbox: true
+            FrustumCullingEnabled: true
+            IsEnabled: true
+            OrderBias: 0
+        Children: []
+        Id: 93602fbe-f89d-4f6f-816e-39642c943341
+      - !WaveEngine.Framework.Assets.AssetSources.Entities.EntityItemModel,WaveEngine.Framework
+        Name: Escudos_Capiteles
+        Tag: null
+        IsEnabled: true
+        IsStatic: false
+        Components:
+          - !WaveEngine.Framework.Graphics.Transform3D,WaveEngine.Framework
+            Id: 63dd629b-3639-4542-a6e4-9efb57f2d958
+            IsEnabled: true
+            LocalOrientation:
+              W: 0.991622746
+              X: 0.0
+              Y: -0.129167795
+              Z: 0.0
+            LocalPosition:
+              X: 18.7663937
+              Y: -0.188474655
+              Z: -3.50658202
+            LocalScale:
+              X: 1.0
+              Y: 1.0
+              Z: 1.0
+          - !WaveEngine.Components.Graphics3D.MaterialComponent,WaveEngine.Framework
+            Id: e117bfa6-89a5-47c4-99a9-742d7544beb4
+            AsignedTo: Escudos_Capiteles
+            IsEnabled: true
+            Material: 29f7fd46-636b-4448-99dd-f8d9b1cdbdca
+          - !WaveEngine.Components.Graphics3D.MeshComponent,WaveEngine.Framework
+            Id: 52ad56ef-855d-4a2e-b261-ee0d789bb61e
+            IsEnabled: true
+            Model: d59dbfae-baa7-436d-aee2-b967b4b98077
+            ModelMeshName: _Mesh_5
+          - !WaveEngine.Components.Graphics3D.MeshRenderer,WaveEngine.Framework
+            Id: 3f24bb18-c39c-49c8-bb69-c85ae7698f25
+            DebugBoundingbox: true
+            FrustumCullingEnabled: true
+            IsEnabled: true
+            OrderBias: 0
+        Children: []
+        Id: d43624e9-02dc-4f6b-a5c5-e3b43d8a2e14
+      - !WaveEngine.Framework.Assets.AssetSources.Entities.EntityItemModel,WaveEngine.Framework
+        Name: Fronton_ladrillos_g
+        Tag: null
+        IsEnabled: true
+        IsStatic: false
+        Components:
+          - !WaveEngine.Framework.Graphics.Transform3D,WaveEngine.Framework
+            Id: 763f0837-6234-43d6-9c04-49e45281f697
+            IsEnabled: true
+            LocalOrientation:
+              W: 0.991622746
+              X: 0.0
+              Y: -0.129167795
+              Z: 0.0
+            LocalPosition:
+              X: 18.7663937
+              Y: -0.188474655
+              Z: -3.50658202
+            LocalScale:
+              X: 1.0
+              Y: 1.0
+              Z: 1.0
+          - !WaveEngine.Components.Graphics3D.MaterialComponent,WaveEngine.Framework
+            Id: 2413ee58-4c61-42e7-9e74-53b68e80a608
+            AsignedTo: Fronton_ladrillos_g
+            IsEnabled: true
+            Material: 6ad1714d-5576-42f9-996d-a57e55524032
+          - !WaveEngine.Components.Graphics3D.MeshComponent,WaveEngine.Framework
+            Id: 1905d3c1-d699-41a7-9fbb-d464ae73d276
+            IsEnabled: true
+            Model: d59dbfae-baa7-436d-aee2-b967b4b98077
+            ModelMeshName: _Mesh_6
+          - !WaveEngine.Components.Graphics3D.MeshRenderer,WaveEngine.Framework
+            Id: f6ce7b9a-b399-48e6-8c36-86663e91300c
+            DebugBoundingbox: true
+            FrustumCullingEnabled: true
+            IsEnabled: true
+            OrderBias: 0
+        Children: []
+        Id: 6b39def7-e9c4-4c0a-be67-6247e0c0f3bd
+      - !WaveEngine.Framework.Assets.AssetSources.Entities.EntityItemModel,WaveEngine.Framework
+        Name: panos_lat_front
+        Tag: null
+        IsEnabled: true
+        IsStatic: false
+        Components:
+          - !WaveEngine.Framework.Graphics.Transform3D,WaveEngine.Framework
+            Id: 466bcf8e-07e0-4575-a4bf-9cda596ac51f
+            IsEnabled: true
+            LocalOrientation:
+              W: 0.991622746
+              X: 0.0
+              Y: -0.129167795
+              Z: 0.0
+            LocalPosition:
+              X: 18.7663937
+              Y: -0.188474655
+              Z: -3.50658202
+            LocalScale:
+              X: 1.0
+              Y: 1.0
+              Z: 1.0
+          - !WaveEngine.Components.Graphics3D.MaterialComponent,WaveEngine.Framework
+            Id: 0772ea29-5bde-4263-9337-0eb4562dcfea
+            AsignedTo: panos_lat_front
+            IsEnabled: true
+            Material: a9f7d2cd-281a-4930-bccb-0a00f550faec
+          - !WaveEngine.Components.Graphics3D.MeshComponent,WaveEngine.Framework
+            Id: d2abdace-2cb7-42b8-b406-28921f4c5a87
+            IsEnabled: true
+            Model: d59dbfae-baa7-436d-aee2-b967b4b98077
+            ModelMeshName: _Mesh_7
+          - !WaveEngine.Components.Graphics3D.MeshRenderer,WaveEngine.Framework
+            Id: 9479a769-d550-446a-a706-0787512f71e4
+            DebugBoundingbox: true
+            FrustumCullingEnabled: true
+            IsEnabled: true
+            OrderBias: 0
+        Children: []
+        Id: 7ae16139-15a3-40ac-8edb-681c43560069
+      - !WaveEngine.Framework.Assets.AssetSources.Entities.EntityItemModel,WaveEngine.Framework
+        Name: Escudos
+        Tag: null
+        IsEnabled: true
+        IsStatic: false
+        Components:
+          - !WaveEngine.Framework.Graphics.Transform3D,WaveEngine.Framework
+            Id: d753bc88-ccdc-460e-82a4-6ffe5665a82a
+            IsEnabled: true
+            LocalOrientation:
+              W: 0.991622746
+              X: 0.0
+              Y: -0.129167795
+              Z: 0.0
+            LocalPosition:
+              X: 18.7663937
+              Y: -0.188474655
+              Z: -3.50658202
+            LocalScale:
+              X: 1.0
+              Y: 1.0
+              Z: 1.0
+          - !WaveEngine.Components.Graphics3D.MaterialComponent,WaveEngine.Framework
+            Id: 04c90fa2-8580-4a93-bc52-4a0eb814dae1
+            AsignedTo: Escudos
+            IsEnabled: true
+            Material: 098286be-e7f1-4703-a503-c4457369fdbf
+          - !WaveEngine.Components.Graphics3D.MeshComponent,WaveEngine.Framework
+            Id: ee4d7e0b-74aa-4811-9c34-48b846de0e1f
+            IsEnabled: true
+            Model: d59dbfae-baa7-436d-aee2-b967b4b98077
+            ModelMeshName: _Mesh_8
+          - !WaveEngine.Components.Graphics3D.MeshRenderer,WaveEngine.Framework
+            Id: f66b4186-a080-4852-9957-833d53772783
+            DebugBoundingbox: true
+            FrustumCullingEnabled: true
+            IsEnabled: true
+            OrderBias: 0
+        Children: []
+        Id: 56116504-cc75-4f0a-956b-6990712d9708
+      - !WaveEngine.Framework.Assets.AssetSources.Entities.EntityItemModel,WaveEngine.Framework
+        Name: Resto_panos
+        Tag: null
+        IsEnabled: true
+        IsStatic: false
+        Components:
+          - !WaveEngine.Framework.Graphics.Transform3D,WaveEngine.Framework
+            Id: 4182cd88-a17c-4604-8fd2-4a124e22dbae
+            IsEnabled: true
+            LocalOrientation:
+              W: 0.991622746
+              X: 0.0
+              Y: -0.129167795
+              Z: 0.0
+            LocalPosition:
+              X: 18.7663937
+              Y: -0.188474655
+              Z: -3.50658202
+            LocalScale:
+              X: 1.0
+              Y: 1.0
+              Z: 1.0
+          - !WaveEngine.Components.Graphics3D.MaterialComponent,WaveEngine.Framework
+            Id: c3531fff-37b3-43e2-af7a-9fed0be3fd99
+            AsignedTo: Resto_panos
+            IsEnabled: true
+            Material: e272671d-f060-485f-9972-f1cb44a8a623
+          - !WaveEngine.Components.Graphics3D.MeshComponent,WaveEngine.Framework
+            Id: b9c4b916-a2ac-4804-9c79-c8de45f5f4cf
+            IsEnabled: true
+            Model: d59dbfae-baa7-436d-aee2-b967b4b98077
+            ModelMeshName: _Mesh_9
+          - !WaveEngine.Components.Graphics3D.MeshRenderer,WaveEngine.Framework
+            Id: e03245d0-e6e6-4f22-a09b-a833a028dfdf
+            DebugBoundingbox: true
+            FrustumCullingEnabled: true
+            IsEnabled: true
+            OrderBias: 0
+        Children: []
+        Id: 11d4f7a3-9f2c-4537-8b26-c34e44b055aa
+      - !WaveEngine.Framework.Assets.AssetSources.Entities.EntityItemModel,WaveEngine.Framework
+        Name: Tejado_Tejas
+        Tag: null
+        IsEnabled: true
+        IsStatic: false
+        Components:
+          - !WaveEngine.Framework.Graphics.Transform3D,WaveEngine.Framework
+            Id: 7e60b223-e682-402e-a478-a7ef586f840f
+            IsEnabled: true
+            LocalOrientation:
+              W: 1.0
+              X: -7.15255737E-07
+              Y: -5.1159077E-13
+              Z: 7.15255737E-07
+            LocalPosition:
+              X: -8.0786953
+              Y: 14.7894945
+              Z: 33.608223
+            LocalScale:
+              X: 1.0
+              Y: 1.0
+              Z: 1.0
+          - !WaveEngine.Components.Graphics3D.MaterialComponent,WaveEngine.Framework
+            Id: c6f95a08-5718-497e-9154-ff8f32fcdc7d
+            AsignedTo: Tejado_Tejas
+            IsEnabled: true
+            Material: 261ae539-6fa1-4818-adab-1bb6211f2fa9
+          - !WaveEngine.Components.Graphics3D.MeshComponent,WaveEngine.Framework
+            Id: e334ebe0-a0dc-4fee-8359-7756fc18485e
+            IsEnabled: true
+            Model: d59dbfae-baa7-436d-aee2-b967b4b98077
+            ModelMeshName: _Mesh_10
+          - !WaveEngine.Components.Graphics3D.MeshRenderer,WaveEngine.Framework
+            Id: 7987d736-c3f9-4dab-b074-0b2eb5a65291
+            DebugBoundingbox: true
+            FrustumCullingEnabled: true
+            IsEnabled: true
+            OrderBias: 0
+        Children: []
+        Id: acdaa3e5-91fc-41a7-bf04-e948468c60da
+      - !WaveEngine.Framework.Assets.AssetSources.Entities.EntityItemModel,WaveEngine.Framework
+        Name: Pilastras_Balaustras
+        Tag: null
+        IsEnabled: true
+        IsStatic: false
+        Components:
+          - !WaveEngine.Framework.Graphics.Transform3D,WaveEngine.Framework
+            Id: be98c2b3-2f79-4ad6-96fc-b850d6ee36cb
+            IsEnabled: true
+            LocalOrientation:
+              W: 1.0
+              X: -7.15255737E-07
+              Y: -5.1159077E-13
+              Z: 7.15255737E-07
+            LocalPosition:
+              X: -8.0786953
+              Y: 14.7894945
+              Z: 33.608223
+            LocalScale:
+              X: 1.0
+              Y: 1.0
+              Z: 1.0
+          - !WaveEngine.Components.Graphics3D.MaterialComponent,WaveEngine.Framework
+            Id: da4a3b05-6f33-443d-b2f7-d033fe35b0a7
+            AsignedTo: Pilastras_Balaustras
+            IsEnabled: true
+            Material: 0fb9a82a-d0f9-4f97-adc1-b54f9d9d188b
+          - !WaveEngine.Components.Graphics3D.MeshComponent,WaveEngine.Framework
+            Id: d4f755a6-b9b9-40bc-aaa4-1effc17cba7f
+            IsEnabled: true
+            Model: d59dbfae-baa7-436d-aee2-b967b4b98077
+            ModelMeshName: _Mesh_11
+          - !WaveEngine.Components.Graphics3D.MeshRenderer,WaveEngine.Framework
+            Id: 9773c74f-e8c7-49d0-ad83-637c66d5a71d
+            DebugBoundingbox: true
+            FrustumCullingEnabled: true
+            IsEnabled: true
+            OrderBias: 0
+        Children: []
+        Id: 0327f20f-bc9e-43d8-aecf-8cca957bfb91
+      - !WaveEngine.Framework.Assets.AssetSources.Entities.EntityItemModel,WaveEngine.Framework
+        Name: barandillas
+        Tag: null
+        IsEnabled: true
+        IsStatic: false
+        Components:
+          - !WaveEngine.Framework.Graphics.Transform3D,WaveEngine.Framework
+            Id: 8b9cfdb1-d116-4eb8-ab58-db915033883c
+            IsEnabled: true
+            LocalOrientation:
+              W: 1.0
+              X: -7.15255737E-07
+              Y: -5.1159077E-13
+              Z: 7.15255737E-07
+            LocalPosition:
+              X: -8.0786953
+              Y: 14.7894945
+              Z: 33.608223
+            LocalScale:
+              X: 1.0
+              Y: 1.0
+              Z: 1.0
+          - !WaveEngine.Components.Graphics3D.MaterialComponent,WaveEngine.Framework
+            Id: 8cbcf32c-2d2f-4d4f-a194-9f8bfda480e8
+            AsignedTo: barandillas
+            IsEnabled: true
+            Material: f27115ff-ec0d-4256-845b-f059708735e2
+          - !WaveEngine.Components.Graphics3D.MeshComponent,WaveEngine.Framework
+            Id: 0c6595f8-9b19-4a75-93ab-f7986bff72a3
+            IsEnabled: true
+            Model: d59dbfae-baa7-436d-aee2-b967b4b98077
+            ModelMeshName: _Mesh_12
+          - !WaveEngine.Components.Graphics3D.MeshRenderer,WaveEngine.Framework
+            Id: 63c308b6-1986-43fc-a303-c88befacc963
+            DebugBoundingbox: true
+            FrustumCullingEnabled: true
+            IsEnabled: true
+            OrderBias: 0
+        Children: []
+        Id: 4aaa9456-2b39-46d4-b799-844206fbefec
+    Id: a4dca58d-e763-48d9-b51b-6ed92c6f6b43
+  - !WaveEngine.Framework.Assets.AssetSources.Entities.EntityItemModel,WaveEngine.Framework
+    Name: directionalLight
+    Tag: null
+    IsEnabled: true
+    IsStatic: false
+    Components:
+      - !WaveEngine.Framework.Graphics.Transform3D,WaveEngine.Framework
+        Id: e488bf0c-4b66-4107-9d0f-1e0063cf107b
+        IsEnabled: true
+        LocalOrientation:
+          W: 1.0
+          X: 0.0
+          Y: 0.0
+          Z: 0.0
+        LocalPosition:
+          X: -3.0
+          Y: 18.0
+          Z: 60.0
+        LocalScale:
+          X: 1.0
+          Y: 1.0
+          Z: 1.0
+      - !WaveEngine.Framework.Graphics.DirectionalLight,WaveEngine.Framework
+        Id: 3dbbe757-7e14-481f-a2a6-98de9292649f
+        Color:
+          A: 255
+          B: 255
+          G: 255
+          R: 255
+        Intensity: 0.5
+        IsEnabled: true
+    Children: []
+    Id: a42135d6-9392-408c-a400-87b2293089f8
+Managers: []
